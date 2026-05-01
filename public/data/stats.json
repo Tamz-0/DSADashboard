@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 33,
-    "medium": 15,
+    "medium": 16,
     "hard": 3,
-    "solved": 51,
+    "solved": 52,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -74,6 +74,11 @@
       "0152-maximum-product-subarray": {
         "README.md": "auto",
         "0152-maximum-product-subarray.java": "auto",
+        "difficulty": "medium"
+      },
+      "0162-find-peak-element": {
+        "README.md": "auto",
+        "0162-find-peak-element.cpp": "auto",
         "difficulty": "medium"
       },
       "0167-two-sum-ii-input-array-is-sorted": {
