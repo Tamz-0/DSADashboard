@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 21,
+    "easy": 22,
     "medium": 11,
     "hard": 2,
-    "solved": 34,
+    "solved": 35,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -47,6 +47,11 @@
         "0167-two-sum-ii-input-array-is-sorted.js": "auto",
         "0167-two-sum-ii-input-array-is-sorted.java": "auto",
         "difficulty": "medium"
+      },
+      "0191-number-of-1-bits": {
+        "README.md": "auto",
+        "0191-number-of-1-bits.cpp": "auto",
+        "difficulty": "easy"
       },
       "0217-contains-duplicate": {
         "README.md": "auto",
