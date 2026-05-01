@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 33,
+    "easy": 34,
     "medium": 16,
     "hard": 3,
-    "solved": 52,
+    "solved": 53,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -70,6 +70,11 @@
         "README.md": "auto",
         "0098-validate-binary-search-tree.java": "auto",
         "difficulty": "medium"
+      },
+      "0125-valid-palindrome": {
+        "0125-valid-palindrome.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
       },
       "0152-maximum-product-subarray": {
         "README.md": "auto",
