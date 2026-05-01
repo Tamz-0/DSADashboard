@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 24,
-    "medium": 11,
+    "medium": 12,
     "hard": 2,
-    "solved": 37,
+    "solved": 38,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -78,6 +78,11 @@
       "0236-lowest-common-ancestor-of-a-binary-tree": {
         "README.md": "auto",
         "0236-lowest-common-ancestor-of-a-binary-tree.java": "auto",
+        "difficulty": "medium"
+      },
+      "0238-product-of-array-except-self": {
+        "README.md": "auto",
+        "0238-product-of-array-except-self.py": "auto",
         "difficulty": "medium"
       },
       "0242-valid-anagram": {
