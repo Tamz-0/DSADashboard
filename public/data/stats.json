@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 48,
+    "easy": 49,
     "medium": 27,
     "hard": 4,
-    "solved": 79,
+    "solved": 80,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -313,6 +313,11 @@
         "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1137-n-th-tribonacci-number": {
+        "README.md": "auto",
+        "1137-n-th-tribonacci-number.cpp": "auto",
         "difficulty": "easy"
       },
       "1186-maximum-subarray-sum-with-one-deletion": {
