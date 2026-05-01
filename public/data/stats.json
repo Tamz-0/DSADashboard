@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 20,
+    "easy": 21,
     "medium": 11,
     "hard": 2,
-    "solved": 33,
+    "solved": 34,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -160,6 +160,11 @@
         "README.md": "auto",
         "3013-divide-an-array-into-subarrays-with-minimum-cost-ii.java": "auto",
         "difficulty": "hard"
+      },
+      "3024-type-of-triangle": {
+        "README.md": "auto",
+        "3024-type-of-triangle.cpp": "auto",
+        "difficulty": "easy"
       },
       "3232-find-if-digit-game-can-be-won": {
         "README.md": "auto",
