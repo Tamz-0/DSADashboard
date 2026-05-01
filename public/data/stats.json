@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 42,
+    "easy": 43,
     "medium": 22,
     "hard": 4,
-    "solved": 68,
+    "solved": 69,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -116,6 +116,14 @@
       "0125-valid-palindrome": {
         "0125-valid-palindrome.cpp": "auto",
         "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "0141-linked-list-cycle": {
+        "README.md": "auto",
+        "0141-linked-list-cycle.js": "auto",
+        "0141-linked-list-cycle.java": "auto",
+        "0141-linked-list-cycle.cpp": "auto",
+        "0141-linked-list-cycle.py": "auto",
         "difficulty": "easy"
       },
       "0152-maximum-product-subarray": {
