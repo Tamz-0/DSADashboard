@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 44,
+    "easy": 45,
     "medium": 22,
     "hard": 4,
-    "solved": 70,
+    "solved": 71,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -168,6 +168,11 @@
         "README.md": "auto",
         "0224-basic-calculator.py": "auto",
         "difficulty": "hard"
+      },
+      "0231-power-of-two": {
+        "README.md": "auto",
+        "0231-power-of-two.cpp": "auto",
+        "difficulty": "easy"
       },
       "0234-palindrome-linked-list": {
         "README.md": "auto",
