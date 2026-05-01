@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 19,
+    "easy": 20,
     "medium": 11,
     "hard": 2,
-    "solved": 32,
+    "solved": 33,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -159,6 +159,11 @@
         "README.md": "auto",
         "3013-divide-an-array-into-subarrays-with-minimum-cost-ii.java": "auto",
         "difficulty": "hard"
+      },
+      "3232-find-if-digit-game-can-be-won": {
+        "README.md": "auto",
+        "3232-find-if-digit-game-can-be-won.cpp": "auto",
+        "difficulty": "easy"
       },
       "3637-trionic-array-i": {
         "README.md": "auto",
