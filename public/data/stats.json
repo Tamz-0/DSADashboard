@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 27,
+    "easy": 28,
     "medium": 13,
     "hard": 3,
-    "solved": 43,
+    "solved": 44,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -188,6 +188,11 @@
       "2351-first-letter-to-appear-twice": {
         "README.md": "auto",
         "2351-first-letter-to-appear-twice.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2529-maximum-count-of-positive-integer-and-negative-integer": {
+        "README.md": "auto",
+        "2529-maximum-count-of-positive-integer-and-negative-integer.py": "auto",
         "difficulty": "easy"
       },
       "2652-sum-multiples": {
