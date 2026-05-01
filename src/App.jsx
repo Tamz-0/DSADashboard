@@ -477,7 +477,7 @@ function Navbar({ theme, toggleTheme, stats }) {
             </svg>
           </div>
           <span style={{ fontFamily: 'Syne, sans-serif', fontWeight: 700, fontSize: 16, letterSpacing: '-0.01em' }}>
-            DSA Playground
+            Taha's DSA Playground
           </span>
         </Link>
 
