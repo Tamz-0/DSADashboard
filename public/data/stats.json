@@ -1,14 +1,19 @@
 {
   "leetcode": {
-    "easy": 22,
+    "easy": 23,
     "medium": 11,
     "hard": 2,
-    "solved": 35,
+    "solved": 36,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
         "0001-two-sum.cpp": "auto",
         "0001-two-sum.java": "auto",
+        "difficulty": "easy"
+      },
+      "0009-palindrome-number": {
+        "README.md": "auto",
+        "0009-palindrome-number.cpp": "auto",
         "difficulty": "easy"
       },
       "0011-container-with-most-water": {
