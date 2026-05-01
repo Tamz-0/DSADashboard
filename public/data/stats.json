@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 32,
-    "medium": 14,
+    "easy": 33,
+    "medium": 15,
     "hard": 3,
-    "solved": 49,
+    "solved": 51,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -44,6 +44,11 @@
       "0053-maximum-subarray": {
         "README.md": "auto",
         "0053-maximum-subarray.java": "auto",
+        "difficulty": "medium"
+      },
+      "0054-spiral-matrix": {
+        "README.md": "auto",
+        "0054-spiral-matrix.py": "auto",
         "difficulty": "medium"
       },
       "0062-unique-paths": {
@@ -164,6 +169,11 @@
         "README.md": "auto",
         "0974-subarray-sums-divisible-by-k.cpp": "auto",
         "difficulty": "medium"
+      },
+      "1266-minimum-time-visiting-all-points": {
+        "README.md": "auto",
+        "1266-minimum-time-visiting-all-points.py": "auto",
+        "difficulty": "easy"
       },
       "1299-replace-elements-with-greatest-element-on-right-side": {
         "README.md": "auto",
