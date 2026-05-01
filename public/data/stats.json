@@ -122,6 +122,7 @@
       },
       "1700-number-of-students-unable-to-eat-lunch": {
         "README.md": "auto",
+        "1700-number-of-students-unable-to-eat-lunch.c": "auto",
         "difficulty": "easy"
       },
       "1749-maximum-absolute-sum-of-any-subarray": {
