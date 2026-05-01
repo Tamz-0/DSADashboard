@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 17,
+    "easy": 18,
     "medium": 11,
     "hard": 2,
-    "solved": 30,
+    "solved": 31,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -124,6 +124,11 @@
         "README.md": "auto",
         "1749-maximum-absolute-sum-of-any-subarray.cpp": "auto",
         "difficulty": "medium"
+      },
+      "1822-sign-of-the-product-of-an-array": {
+        "README.md": "auto",
+        "1822-sign-of-the-product-of-an-array.cpp": "auto",
+        "difficulty": "easy"
       },
       "2073-time-needed-to-buy-tickets": {
         "README.md": "auto",
