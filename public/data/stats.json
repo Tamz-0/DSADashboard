@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 47,
+    "easy": 48,
     "medium": 27,
     "hard": 4,
-    "solved": 78,
+    "solved": 79,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -50,6 +50,11 @@
       "0020-valid-parentheses": {
         "README.md": "auto",
         "0020-valid-parentheses.py": "auto",
+        "difficulty": "easy"
+      },
+      "0021-merge-two-sorted-lists": {
+        "README.md": "auto",
+        "0021-merge-two-sorted-lists.cpp": "auto",
         "difficulty": "easy"
       },
       "0026-remove-duplicates-from-sorted-array": {
