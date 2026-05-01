@@ -1,0 +1,77 @@
+name: Pull Data and Deploy
+
+on:
+  repository_dispatch:
+    types: [sync-from-leetcode]
+  workflow_dispatch:
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout dashboard repo
+        uses: actions/checkout@v4
+
+      - name: Download stats.json from LeetCode repo
+        run: |
+          curl -H "Authorization: Bearer ${{ secrets.DASHBOARD_PAT }}" \
+            -H "Accept: application/vnd.github.raw" \
+            "https://api.github.com/repos/Tamz-0/dsa_playground/contents/stats.json" \
+            -o public/data/stats.json
+          echo "stats.json downloaded"
+          cat public/data/stats.json | python3 -c "import sys,json; d=json.load(sys.stdin); print(f'Solved: {d[\"leetcode\"][\"solved\"]}')"
+
+      - name: Download all problem folders
+        run: |
+          python3 << 'EOF'
+          import urllib.request, json, os, re
+
+          headers = {
+            'Authorization': 'Bearer ${{ secrets.DASHBOARD_PAT }}',
+            'Accept': 'application/vnd.github+json'
+          }
+
+          def api_get(url):
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req) as r:
+              return json.loads(r.read())
+
+          contents = api_get('https://api.github.com/repos/Tamz-0/dsa_playground/contents/')
+
+          for item in contents:
+            name = item['name']
+            if not re.match(r'^\d{4}-', name) or item['type'] != 'dir':
+              continue
+
+            dest = f'public/data/{name}'
+            os.makedirs(dest, exist_ok=True)
+
+            files = api_get(item['url'])
+            for f in files:
+              if f['type'] != 'file':
+                continue
+              fname = f['name']
+              if not fname.endswith(('.md', '.cpp', '.java', '.js', '.py', '.ts')):
+                continue
+              req = urllib.request.Request(f['download_url'], headers=headers)
+              with urllib.request.urlopen(req) as r:
+                content = r.read()
+              with open(f'{dest}/{fname}', 'wb') as out:
+                out.write(content)
+              print(f'Downloaded {name}/{fname}')
+
+          print('All files downloaded')
+          EOF
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          git diff --staged --quiet || git commit -m "chore: sync problems from leetcode repo"
+          git push
+
+      - name: Trigger Vercel Deploy
+        run: |
+          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
