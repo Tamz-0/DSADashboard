@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 39,
-    "medium": 17,
+    "medium": 18,
     "hard": 4,
-    "solved": 60,
+    "solved": 61,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -81,6 +81,11 @@
         "README.md": "auto",
         "0070-climbing-stairs.java": "auto",
         "difficulty": "easy"
+      },
+      "0075-sort-colors": {
+        "README.md": "auto",
+        "0075-sort-colors.cpp": "auto",
+        "difficulty": "medium"
       },
       "0083-remove-duplicates-from-sorted-list": {
         "README.md": "auto",
