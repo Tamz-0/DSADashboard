@@ -1,15 +1,20 @@
 {
   "leetcode": {
-    "easy": 28,
-    "medium": 13,
+    "easy": 29,
+    "medium": 14,
     "hard": 3,
-    "solved": 44,
+    "solved": 46,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
         "0001-two-sum.cpp": "auto",
         "0001-two-sum.java": "auto",
         "difficulty": "easy"
+      },
+      "0007-reverse-integer": {
+        "README.md": "auto",
+        "0007-reverse-integer.py": "auto",
+        "difficulty": "medium"
       },
       "0009-palindrome-number": {
         "README.md": "auto",
@@ -193,6 +198,11 @@
       "2529-maximum-count-of-positive-integer-and-negative-integer": {
         "README.md": "auto",
         "2529-maximum-count-of-positive-integer-and-negative-integer.py": "auto",
+        "difficulty": "easy"
+      },
+      "2620-counter": {
+        "README.md": "auto",
+        "2620-counter.js": "auto",
         "difficulty": "easy"
       },
       "2652-sum-multiples": {
