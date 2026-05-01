@@ -68,6 +68,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add public/data/
           git diff --staged --quiet || git commit -m "chore: sync problems from leetcode repo"
           git push
