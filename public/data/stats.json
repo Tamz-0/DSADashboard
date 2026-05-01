@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 24,
-    "medium": 12,
+    "medium": 13,
     "hard": 2,
-    "solved": 38,
+    "solved": 39,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -25,6 +25,11 @@
         "0014-longest-common-prefix.py": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "0049-group-anagrams": {
+        "README.md": "auto",
+        "0049-group-anagrams.py": "auto",
+        "difficulty": "medium"
       },
       "0053-maximum-subarray": {
         "README.md": "auto",
