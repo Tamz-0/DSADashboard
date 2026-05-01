@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 39,
-    "medium": 18,
+    "medium": 19,
     "hard": 4,
-    "solved": 61,
+    "solved": 62,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -215,6 +215,11 @@
         "README.md": "auto",
         "0744-find-smallest-letter-greater-than-target.cpp": "auto",
         "difficulty": "easy"
+      },
+      "0904-fruit-into-baskets": {
+        "README.md": "auto",
+        "0904-fruit-into-baskets.cpp": "auto",
+        "difficulty": "medium"
       },
       "0974-subarray-sums-divisible-by-k": {
         "README.md": "auto",
