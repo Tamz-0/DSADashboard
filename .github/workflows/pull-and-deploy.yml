@@ -48,7 +48,7 @@ jobs:
               if f['type'] != 'file':
                 continue
               fname = f['name']
-              if not fname.endswith(('.md', '.cpp', '.java', '.js', '.py', '.ts')):
+              if not fname.endswith(('.md', '.cpp', '.java', '.js', '.py', '.ts', '.c')):
                 continue
               req = urllib.request.Request(f['download_url'], headers=headers)
               with urllib.request.urlopen(req) as r:

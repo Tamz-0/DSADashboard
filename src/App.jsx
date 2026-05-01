@@ -435,12 +435,12 @@ function parseShas(stats) {
 }
 
 function langLabel(ext) {
-  const map = { cpp: 'C++', java: 'Java', js: 'JavaScript', py: 'Python', ts: 'TypeScript' }
+  const map = { cpp: 'C++', java: 'Java', js: 'JavaScript', py: 'Python', ts: 'TypeScript', c: 'C' }
   return map[ext] || ext.toUpperCase()
 }
 
 function langForHighlight(ext) {
-  const map = { cpp: 'cpp', java: 'java', js: 'javascript', py: 'python', ts: 'typescript' }
+  const map = { cpp: 'cpp', java: 'java', js: 'javascript', py: 'python', ts: 'typescript',c: 'C' }
   return map[ext] || 'text'
 }
 
