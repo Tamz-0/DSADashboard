@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 43,
+    "easy": 44,
     "medium": 22,
     "hard": 4,
-    "solved": 69,
+    "solved": 70,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -253,6 +253,11 @@
       "0744-find-smallest-letter-greater-than-target": {
         "README.md": "auto",
         "0744-find-smallest-letter-greater-than-target.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0876-middle-of-the-linked-list": {
+        "README.md": "auto",
+        "0876-middle-of-the-linked-list.cpp": "auto",
         "difficulty": "easy"
       },
       "0904-fruit-into-baskets": {
