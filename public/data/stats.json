@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 45,
+    "easy": 46,
     "medium": 22,
     "hard": 4,
-    "solved": 71,
+    "solved": 72,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -274,6 +274,12 @@
         "README.md": "auto",
         "0974-subarray-sums-divisible-by-k.cpp": "auto",
         "difficulty": "medium"
+      },
+      "0977-squares-of-a-sorted-array": {
+        "README.md": "auto",
+        "0977-squares-of-a-sorted-array.py": "auto",
+        "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
       },
       "1266-minimum-time-visiting-all-points": {
         "README.md": "auto",
