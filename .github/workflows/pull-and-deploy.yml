@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout dashboard repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.DASHBOARD_PAT }}
 
       - name: Download stats.json from LeetCode repo
         run: |
@@ -68,7 +71,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
           git add public/data/
           git diff --staged --quiet || git commit -m "chore: sync problems from leetcode repo"
           git push
