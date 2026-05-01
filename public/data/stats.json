@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 34,
-    "medium": 16,
-    "hard": 3,
-    "solved": 53,
+    "medium": 17,
+    "hard": 4,
+    "solved": 55,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -31,10 +31,20 @@
         "README.md": "auto",
         "difficulty": "easy"
       },
+      "0015-3sum": {
+        "README.md": "auto",
+        "0015-3sum.cpp": "auto",
+        "difficulty": "medium"
+      },
       "0020-valid-parentheses": {
         "README.md": "auto",
         "0020-valid-parentheses.py": "auto",
         "difficulty": "easy"
+      },
+      "0042-trapping-rain-water": {
+        "README.md": "auto",
+        "0042-trapping-rain-water.cpp": "auto",
+        "difficulty": "hard"
       },
       "0049-group-anagrams": {
         "README.md": "auto",
