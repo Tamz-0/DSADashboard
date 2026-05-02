@@ -427,7 +427,7 @@ function Navbar({ theme, toggleTheme, stats, onCmdOpen }) {
             <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><path d="M2 7L5.5 10.5L12 3" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/></svg>
           </div>
           <div>
-            <div style={{ fontFamily:'var(--font-display)',fontWeight:800,fontSize:16,letterSpacing:'-0.02em',lineHeight:1 }}>Taha's DSA Playground</div>
+            <div style={{ fontFamily:'var(--font-display)',fontWeight:800,fontSize:16,letterSpacing:'-0.02em',lineHeight:1 }}>Taha's DSA Dashboard</div>
             <div style={{ fontFamily:'var(--font-mono)',fontSize:9,color:'var(--text-sub)',letterSpacing:'0.06em' }}>PERSONAL ARCHIVE</div>
           </div>
         </Link>
