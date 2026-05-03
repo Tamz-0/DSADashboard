@@ -41,7 +41,7 @@ const T = {
     border:       'rgba(0,0,0,0.07)',
     borderStrong: 'rgba(0,0,0,0.13)',
     text:         '#141418',
-    textSub:      '#7070848',
+    textSub:      '#707084',
     textFaint:    '#c8c8d4',
     accent:       '#7c3aed',
     accentAlt:    '#0284c7',
@@ -1371,6 +1371,18 @@ export default function App() {
     window.addEventListener('keydown',fn)
     return ()=>window.removeEventListener('keydown',fn)
   },[])
+
+  useEffect(() => {
+  const fn = e => {
+    const inInput = ['INPUT', 'TEXTAREA'].includes(e.target.tagName)
+    if (e.key === 't' && !inInput) {
+      e.preventDefault()
+      toggleTheme()
+    }
+  }
+  window.addEventListener('keydown', fn)
+  return () => window.removeEventListener('keydown', fn)
+}, [toggleTheme])
 
   const sharedProps = { bookmarks, onToggleBookmark:toggleBookmark, confidence, onSetConfidence:setConfSlug, revQueue, onToggleRev:toggleRev }
 
