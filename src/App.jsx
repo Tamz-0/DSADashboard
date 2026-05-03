@@ -443,7 +443,7 @@ function Navbar({ theme, toggleTheme, stats, onCmdOpen }) {
               <div style={{ fontFamily:'var(--font-display)',fontWeight:700,fontSize:13,color:'var(--accent)' }}>{total}</div>
             </div>
           )}
-          <button className="btn-icon" onClick={onCmdOpen} title="⌘K">
+          <button className="btn-icon" onClick={onCmdOpen} title="search">
             <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><rect x="1.5" y="1.5" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="8" y="1.5" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="1.5" y="8" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="8" y="8" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/></svg>
           </button>
     <a href="https://tahaportfolio.pages.dev" target="_blank" rel="noopener noreferrer"
