@@ -446,6 +446,13 @@ function Navbar({ theme, toggleTheme, stats, onCmdOpen }) {
           <button className="btn-icon" onClick={onCmdOpen} title="⌘K">
             <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><rect x="1.5" y="1.5" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="8" y="1.5" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="1.5" y="8" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="8" y="8" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/></svg>
           </button>
+    <a href="https://tahaportfolio.pages.dev" target="_blank" rel="noopener noreferrer"
+  title="My Portfolio"
+  className="btn-icon">
+  <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+    <path d="M3 11L11 3M11 3H6.5M11 3V7.5" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" strokeLinejoin="round"/>
+  </svg>
+</a>
           <button className="btn-icon" onClick={toggleTheme}>
             {theme==='dark'
               ? <svg width="15" height="15" viewBox="0 0 15 15" fill="none"><circle cx="7.5" cy="7.5" r="3" stroke="currentColor" strokeWidth="1.3"/><path d="M7.5 1v2M7.5 12v2M1 7.5h2M12 7.5h2M2.93 2.93l1.41 1.41M10.66 10.66l1.41 1.41M2.93 12.07l1.41-1.41M10.66 4.34l1.41-1.41" stroke="currentColor" strokeWidth="1.3" strokeLinecap="round"/></svg>
