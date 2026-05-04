@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 52,
+    "easy": 53,
     "medium": 27,
     "hard": 4,
-    "solved": 83,
+    "solved": 84,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -358,6 +358,11 @@
       "1486-xor-operation-in-an-array": {
         "README.md": "auto",
         "1486-xor-operation-in-an-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1550-three-consecutive-odds": {
+        "README.md": "auto",
+        "1550-three-consecutive-odds.cpp": "auto",
         "difficulty": "easy"
       },
       "1700-number-of-students-unable-to-eat-lunch": {
