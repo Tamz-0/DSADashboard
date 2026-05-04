@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 50,
+    "easy": 51,
     "medium": 27,
     "hard": 4,
-    "solved": 81,
+    "solved": 82,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -273,6 +273,11 @@
         "README.md": "auto",
         "0560-subarray-sum-equals-k.java": "auto",
         "difficulty": "medium"
+      },
+      "0682-baseball-game": {
+        "README.md": "auto",
+        "0682-baseball-game.cpp": "auto",
+        "difficulty": "easy"
       },
       "0704-binary-search": {
         "README.md": "auto",
