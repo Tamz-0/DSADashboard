@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 49,
+    "easy": 50,
     "medium": 27,
     "hard": 4,
-    "solved": 80,
+    "solved": 81,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -388,6 +388,11 @@
       "2652-sum-multiples": {
         "README.md": "auto",
         "2652-sum-multiples.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2974-minimum-number-game": {
+        "README.md": "auto",
+        "2974-minimum-number-game.cpp": "auto",
         "difficulty": "easy"
       },
       "3010-divide-an-array-into-subarrays-with-minimum-cost-i": {
