@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 54,
+    "easy": 55,
     "medium": 27,
     "hard": 4,
-    "solved": 85,
+    "solved": 86,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -408,6 +408,11 @@
       "2652-sum-multiples": {
         "README.md": "auto",
         "2652-sum-multiples.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2769-find-the-maximum-achievable-number": {
+        "README.md": "auto",
+        "2769-find-the-maximum-achievable-number.cpp": "auto",
         "difficulty": "easy"
       },
       "2974-minimum-number-game": {
