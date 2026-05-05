@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 61,
+    "easy": 62,
     "medium": 27,
     "hard": 4,
-    "solved": 92,
+    "solved": 93,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -398,6 +398,11 @@
       "2073-time-needed-to-buy-tickets": {
         "README.md": "auto",
         "2073-time-needed-to-buy-tickets.java": "auto",
+        "difficulty": "easy"
+      },
+      "2108-find-first-palindromic-string-in-the-array": {
+        "README.md": "auto",
+        "2108-find-first-palindromic-string-in-the-array.cpp": "auto",
         "difficulty": "easy"
       },
       "2114-maximum-number-of-words-found-in-sentences": {
