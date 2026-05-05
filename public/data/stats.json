@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 63,
+    "easy": 64,
     "medium": 27,
     "hard": 4,
-    "solved": 94,
+    "solved": 95,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -470,6 +470,11 @@
         "README.md": "auto",
         "3013-divide-an-array-into-subarrays-with-minimum-cost-ii.java": "auto",
         "difficulty": "hard"
+      },
+      "3019-number-of-changing-keys": {
+        "README.md": "auto",
+        "3019-number-of-changing-keys.cpp": "auto",
+        "difficulty": "easy"
       },
       "3024-type-of-triangle": {
         "README.md": "auto",
