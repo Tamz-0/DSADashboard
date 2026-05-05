@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 64,
+    "easy": 65,
     "medium": 27,
     "hard": 4,
-    "solved": 95,
+    "solved": 96,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -413,6 +413,11 @@
       "2351-first-letter-to-appear-twice": {
         "README.md": "auto",
         "2351-first-letter-to-appear-twice.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2520-count-the-digits-that-divide-a-number": {
+        "README.md": "auto",
+        "2520-count-the-digits-that-divide-a-number.cpp": "auto",
         "difficulty": "easy"
       },
       "2529-maximum-count-of-positive-integer-and-negative-integer": {
