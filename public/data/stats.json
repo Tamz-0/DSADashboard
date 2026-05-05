@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 59,
+    "easy": 60,
     "medium": 27,
     "hard": 4,
-    "solved": 90,
+    "solved": 91,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -408,6 +408,11 @@
       "2529-maximum-count-of-positive-integer-and-negative-integer": {
         "README.md": "auto",
         "2529-maximum-count-of-positive-integer-and-negative-integer.py": "auto",
+        "difficulty": "easy"
+      },
+      "2535-difference-between-element-sum-and-digit-sum-of-an-array": {
+        "README.md": "auto",
+        "2535-difference-between-element-sum-and-digit-sum-of-an-array.cpp": "auto",
         "difficulty": "easy"
       },
       "2620-counter": {
