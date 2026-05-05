@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 60,
+    "easy": 61,
     "medium": 27,
     "hard": 4,
-    "solved": 91,
+    "solved": 92,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -398,6 +398,11 @@
       "2073-time-needed-to-buy-tickets": {
         "README.md": "auto",
         "2073-time-needed-to-buy-tickets.java": "auto",
+        "difficulty": "easy"
+      },
+      "2114-maximum-number-of-words-found-in-sentences": {
+        "README.md": "auto",
+        "2114-maximum-number-of-words-found-in-sentences.cpp": "auto",
         "difficulty": "easy"
       },
       "2351-first-letter-to-appear-twice": {
