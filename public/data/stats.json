@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 56,
+    "easy": 57,
     "medium": 27,
     "hard": 4,
-    "solved": 87,
+    "solved": 88,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -418,6 +418,11 @@
       "2769-find-the-maximum-achievable-number": {
         "README.md": "auto",
         "2769-find-the-maximum-achievable-number.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2942-find-words-containing-character": {
+        "README.md": "auto",
+        "2942-find-words-containing-character.cpp": "auto",
         "difficulty": "easy"
       },
       "2974-minimum-number-game": {
