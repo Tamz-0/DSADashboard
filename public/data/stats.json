@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 57,
+    "easy": 58,
     "medium": 27,
     "hard": 4,
-    "solved": 88,
+    "solved": 89,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -388,6 +388,11 @@
       "1822-sign-of-the-product-of-an-array": {
         "README.md": "auto",
         "1822-sign-of-the-product-of-an-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1832-check-if-the-sentence-is-pangram": {
+        "README.md": "auto",
+        "1832-check-if-the-sentence-is-pangram.cpp": "auto",
         "difficulty": "easy"
       },
       "2073-time-needed-to-buy-tickets": {
