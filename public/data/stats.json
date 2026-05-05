@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 65,
+    "easy": 66,
     "medium": 27,
     "hard": 4,
-    "solved": 96,
+    "solved": 97,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -66,6 +66,11 @@
         "README.md": "auto",
         "0027-remove-element.cpp": "auto",
         "0027-remove-element.py": "auto",
+        "difficulty": "easy"
+      },
+      "0028-find-the-index-of-the-first-occurrence-in-a-string": {
+        "README.md": "auto",
+        "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp": "auto",
         "difficulty": "easy"
       },
       "0042-trapping-rain-water": {
