@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 62,
+    "easy": 63,
     "medium": 27,
     "hard": 4,
-    "solved": 93,
+    "solved": 94,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -438,6 +438,11 @@
       "2769-find-the-maximum-achievable-number": {
         "README.md": "auto",
         "2769-find-the-maximum-achievable-number.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2798-number-of-employees-who-met-the-target": {
+        "README.md": "auto",
+        "2798-number-of-employees-who-met-the-target.cpp": "auto",
         "difficulty": "easy"
       },
       "2894-divisible-and-non-divisible-sums-difference": {
