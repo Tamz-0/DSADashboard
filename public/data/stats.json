@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 73,
+    "easy": 74,
     "medium": 27,
     "hard": 4,
-    "solved": 104,
+    "solved": 105,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -158,6 +158,11 @@
         "README.md": "auto",
         "0098-validate-binary-search-tree.java": "auto",
         "difficulty": "medium"
+      },
+      "0101-symmetric-tree": {
+        "README.md": "auto",
+        "0101-symmetric-tree.cpp": "auto",
+        "difficulty": "easy"
       },
       "0121-best-time-to-buy-and-sell-stock": {
         "README.md": "auto",
