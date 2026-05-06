@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 72,
+    "easy": 73,
     "medium": 27,
     "hard": 4,
-    "solved": 103,
+    "solved": 104,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -147,6 +147,11 @@
       "0088-merge-sorted-array": {
         "README.md": "auto",
         "0088-merge-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0094-binary-tree-inorder-traversal": {
+        "README.md": "auto",
+        "0094-binary-tree-inorder-traversal.cpp": "auto",
         "difficulty": "easy"
       },
       "0098-validate-binary-search-tree": {
