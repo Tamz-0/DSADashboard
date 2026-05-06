@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 71,
+    "easy": 72,
     "medium": 27,
     "hard": 4,
-    "solved": 102,
+    "solved": 103,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -142,6 +142,11 @@
       "0083-remove-duplicates-from-sorted-list": {
         "README.md": "auto",
         "0083-remove-duplicates-from-sorted-list.py": "auto",
+        "difficulty": "easy"
+      },
+      "0088-merge-sorted-array": {
+        "README.md": "auto",
+        "0088-merge-sorted-array.cpp": "auto",
         "difficulty": "easy"
       },
       "0098-validate-binary-search-tree": {
