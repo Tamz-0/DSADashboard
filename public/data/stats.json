@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 70,
+    "easy": 71,
     "medium": 27,
     "hard": 4,
-    "solved": 101,
+    "solved": 102,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -122,6 +122,11 @@
       "0067-add-binary": {
         "README.md": "auto",
         "0067-add-binary.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0069-sqrtx": {
+        "0069-sqrtx.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0070-climbing-stairs": {
