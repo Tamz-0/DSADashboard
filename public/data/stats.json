@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 68,
+    "easy": 69,
     "medium": 27,
     "hard": 4,
-    "solved": 99,
+    "solved": 100,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -113,6 +113,11 @@
         "README.md": "auto",
         "0062-unique-paths.cpp": "auto",
         "difficulty": "medium"
+      },
+      "0066-plus-one": {
+        "README.md": "auto",
+        "0066-plus-one.cpp": "auto",
+        "difficulty": "easy"
       },
       "0070-climbing-stairs": {
         "README.md": "auto",
