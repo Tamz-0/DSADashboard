@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 107,
+    "easy": 109,
     "medium": 27,
     "hard": 4,
-    "solved": 138,
+    "solved": 140,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -504,6 +504,11 @@
         "1186-maximum-subarray-sum-with-one-deletion.java": "auto",
         "difficulty": "medium"
       },
+      "1217-minimum-cost-to-move-chips-to-the-same-position": {
+        "README.md": "auto",
+        "1217-minimum-cost-to-move-chips-to-the-same-position.py": "auto",
+        "difficulty": "easy"
+      },
       "1232-check-if-it-is-a-straight-line": {
         "README.md": "auto",
         "1232-check-if-it-is-a-straight-line.py": "auto",
@@ -522,6 +527,11 @@
       "1281-subtract-the-product-and-sum-of-digits-of-an-integer": {
         "README.md": "auto",
         "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1287-element-appearing-more-than-25-in-sorted-array": {
+        "1287-element-appearing-more-than-25-in-sorted-array.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1295-find-numbers-with-even-number-of-digits": {
