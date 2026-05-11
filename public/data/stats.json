@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 88,
+    "easy": 89,
     "medium": 27,
     "hard": 4,
-    "solved": 119,
+    "solved": 120,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -386,6 +386,11 @@
       "0599-minimum-index-sum-of-two-lists": {
         "README.md": "auto",
         "0599-minimum-index-sum-of-two-lists.py": "auto",
+        "difficulty": "easy"
+      },
+      "0605-can-place-flowers": {
+        "README.md": "auto",
+        "0605-can-place-flowers.py": "auto",
         "difficulty": "easy"
       },
       "0657-robot-return-to-origin": {
