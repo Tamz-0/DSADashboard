@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 92,
+    "easy": 93,
     "medium": 27,
     "hard": 4,
-    "solved": 123,
+    "solved": 124,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -406,6 +406,11 @@
       "0628-maximum-product-of-three-numbers": {
         "README.md": "auto",
         "0628-maximum-product-of-three-numbers.py": "auto",
+        "difficulty": "easy"
+      },
+      "0637-average-of-levels-in-binary-tree": {
+        "0637-average-of-levels-in-binary-tree.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0657-robot-return-to-origin": {
