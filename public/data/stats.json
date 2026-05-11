@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 96,
+    "easy": 100,
     "medium": 27,
     "hard": 4,
-    "solved": 127,
+    "solved": 131,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -433,9 +433,24 @@
         "0661-image-smoother.py": "auto",
         "difficulty": "easy"
       },
+      "0680-valid-palindrome-ii": {
+        "README.md": "auto",
+        "0680-valid-palindrome-ii.py": "auto",
+        "difficulty": "easy"
+      },
       "0682-baseball-game": {
         "README.md": "auto",
         "0682-baseball-game.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0693-binary-number-with-alternating-bits": {
+        "README.md": "auto",
+        "0693-binary-number-with-alternating-bits.py": "auto",
+        "difficulty": "easy"
+      },
+      "0696-count-binary-substrings": {
+        "README.md": "auto",
+        "0696-count-binary-substrings.py": "auto",
         "difficulty": "easy"
       },
       "0704-binary-search": {
@@ -488,6 +503,11 @@
         "README.md": "auto",
         "1186-maximum-subarray-sum-with-one-deletion.java": "auto",
         "difficulty": "medium"
+      },
+      "1232-check-if-it-is-a-straight-line": {
+        "README.md": "auto",
+        "1232-check-if-it-is-a-straight-line.py": "auto",
+        "difficulty": "easy"
       },
       "1266-minimum-time-visiting-all-points": {
         "README.md": "auto",
