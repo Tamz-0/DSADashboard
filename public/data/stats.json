@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 101,
+    "easy": 102,
     "medium": 27,
     "hard": 4,
-    "solved": 132,
+    "solved": 133,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -517,6 +517,11 @@
       "1281-subtract-the-product-and-sum-of-digits-of-an-integer": {
         "README.md": "auto",
         "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1295-find-numbers-with-even-number-of-digits": {
+        "README.md": "auto",
+        "1295-find-numbers-with-even-number-of-digits.py": "auto",
         "difficulty": "easy"
       },
       "1299-replace-elements-with-greatest-element-on-right-side": {
