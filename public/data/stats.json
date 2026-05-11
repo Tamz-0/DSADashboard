@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 105,
+    "easy": 107,
     "medium": 27,
     "hard": 4,
-    "solved": 136,
+    "solved": 138,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -514,6 +514,11 @@
         "1266-minimum-time-visiting-all-points.py": "auto",
         "difficulty": "easy"
       },
+      "1275-find-winner-on-a-tic-tac-toe-game": {
+        "README.md": "auto",
+        "1275-find-winner-on-a-tic-tac-toe-game.py": "auto",
+        "difficulty": "easy"
+      },
       "1281-subtract-the-product-and-sum-of-digits-of-an-integer": {
         "README.md": "auto",
         "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp": "auto",
@@ -537,6 +542,11 @@
       "1309-decrypt-string-from-alphabet-to-integer-mapping": {
         "README.md": "auto",
         "1309-decrypt-string-from-alphabet-to-integer-mapping.py": "auto",
+        "difficulty": "easy"
+      },
+      "1313-decompress-run-length-encoded-list": {
+        "README.md": "auto",
+        "1313-decompress-run-length-encoded-list.py": "auto",
         "difficulty": "easy"
       },
       "1323-maximum-69-number": {
