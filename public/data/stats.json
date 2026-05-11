@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 85,
+    "easy": 88,
     "medium": 27,
     "hard": 4,
-    "solved": 116,
+    "solved": 119,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -264,6 +264,15 @@
         "0191-number-of-1-bits.cpp": "auto",
         "difficulty": "easy"
       },
+      "0202-happy-number": {
+        "0202-happy-number.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "0203-remove-linked-list-elements": {
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
       "0209-minimum-size-subarray-sum": {
         "README.md": "auto",
         "0209-minimum-size-subarray-sum.cpp": "auto",
@@ -373,6 +382,11 @@
         "README.md": "auto",
         "0560-subarray-sum-equals-k.java": "auto",
         "difficulty": "medium"
+      },
+      "0599-minimum-index-sum-of-two-lists": {
+        "README.md": "auto",
+        "0599-minimum-index-sum-of-two-lists.py": "auto",
+        "difficulty": "easy"
       },
       "0657-robot-return-to-origin": {
         "0657-robot-return-to-origin.cpp": "auto",
