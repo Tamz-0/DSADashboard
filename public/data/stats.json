@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 75,
+    "easy": 76,
     "medium": 27,
     "hard": 4,
-    "solved": 106,
+    "solved": 107,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -167,6 +167,11 @@
       "0104-maximum-depth-of-binary-tree": {
         "README.md": "auto",
         "0104-maximum-depth-of-binary-tree.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0110-balanced-binary-tree": {
+        "README.md": "auto",
+        "0110-balanced-binary-tree.cpp": "auto",
         "difficulty": "easy"
       },
       "0121-best-time-to-buy-and-sell-stock": {
