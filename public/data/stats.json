@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 109,
+    "easy": 110,
     "medium": 27,
     "hard": 4,
-    "solved": 140,
+    "solved": 141,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -532,6 +532,11 @@
       "1287-element-appearing-more-than-25-in-sorted-array": {
         "1287-element-appearing-more-than-25-in-sorted-array.py": "auto",
         "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "1290-convert-binary-number-in-a-linked-list-to-integer": {
+        "README.md": "auto",
+        "1290-convert-binary-number-in-a-linked-list-to-integer.py": "auto",
         "difficulty": "easy"
       },
       "1295-find-numbers-with-even-number-of-digits": {
