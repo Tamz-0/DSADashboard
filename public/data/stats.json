@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 123,
+    "easy": 126,
     "medium": 27,
     "hard": 4,
-    "solved": 154,
+    "solved": 157,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -494,6 +494,16 @@
         "0977-squares-of-a-sorted-array.cpp": "auto",
         "difficulty": "easy"
       },
+      "1108-defanging-an-ip-address": {
+        "README.md": "auto",
+        "1108-defanging-an-ip-address.py": "auto",
+        "difficulty": "easy"
+      },
+      "1114-print-in-order": {
+        "README.md": "auto",
+        "1114-print-in-order.py": "auto",
+        "difficulty": "easy"
+      },
       "1122-relative-sort-array": {
         "README.md": "auto",
         "1122-relative-sort-array.py": "auto",
@@ -512,6 +522,11 @@
       "1154-day-of-the-year": {
         "README.md": "auto",
         "1154-day-of-the-year.py": "auto",
+        "difficulty": "easy"
+      },
+      "1160-find-words-that-can-be-formed-by-characters": {
+        "README.md": "auto",
+        "1160-find-words-that-can-be-formed-by-characters.py": "auto",
         "difficulty": "easy"
       },
       "1175-prime-arrangements": {
