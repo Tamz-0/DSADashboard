@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 79,
+    "easy": 80,
     "medium": 27,
     "hard": 4,
-    "solved": 110,
+    "solved": 111,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -187,6 +187,11 @@
       "0118-pascals-triangle": {
         "README.md": "auto",
         "0118-pascals-triangle.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0119-pascals-triangle-ii": {
+        "README.md": "auto",
+        "0119-pascals-triangle-ii.cpp": "auto",
         "difficulty": "easy"
       },
       "0121-best-time-to-buy-and-sell-stock": {
