@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 89,
+    "easy": 92,
     "medium": 27,
     "hard": 4,
-    "solved": 120,
+    "solved": 123,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -273,6 +273,11 @@
         "README.md": "auto",
         "difficulty": "easy"
       },
+      "0205-isomorphic-strings": {
+        "README.md": "auto",
+        "0205-isomorphic-strings.cpp": "auto",
+        "difficulty": "easy"
+      },
       "0209-minimum-size-subarray-sum": {
         "README.md": "auto",
         "0209-minimum-size-subarray-sum.cpp": "auto",
@@ -391,6 +396,16 @@
       "0605-can-place-flowers": {
         "README.md": "auto",
         "0605-can-place-flowers.py": "auto",
+        "difficulty": "easy"
+      },
+      "0617-merge-two-binary-trees": {
+        "README.md": "auto",
+        "0617-merge-two-binary-trees.py": "auto",
+        "difficulty": "easy"
+      },
+      "0628-maximum-product-of-three-numbers": {
+        "README.md": "auto",
+        "0628-maximum-product-of-three-numbers.py": "auto",
         "difficulty": "easy"
       },
       "0657-robot-return-to-origin": {
