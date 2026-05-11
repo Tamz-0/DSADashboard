@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 95,
+    "easy": 96,
     "medium": 27,
     "hard": 4,
-    "solved": 126,
+    "solved": 127,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -426,6 +426,11 @@
       "0657-robot-return-to-origin": {
         "0657-robot-return-to-origin.cpp": "auto",
         "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "0661-image-smoother": {
+        "README.md": "auto",
+        "0661-image-smoother.py": "auto",
         "difficulty": "easy"
       },
       "0682-baseball-game": {
