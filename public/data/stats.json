@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 122,
+    "easy": 123,
     "medium": 27,
     "hard": 4,
-    "solved": 153,
+    "solved": 154,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -512,6 +512,11 @@
       "1154-day-of-the-year": {
         "README.md": "auto",
         "1154-day-of-the-year.py": "auto",
+        "difficulty": "easy"
+      },
+      "1175-prime-arrangements": {
+        "README.md": "auto",
+        "1175-prime-arrangements.py": "auto",
         "difficulty": "easy"
       },
       "1184-distance-between-bus-stops": {
