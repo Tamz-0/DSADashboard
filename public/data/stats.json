@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 94,
+    "easy": 95,
     "medium": 27,
     "hard": 4,
-    "solved": 125,
+    "solved": 126,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -416,6 +416,11 @@
       "0643-maximum-average-subarray-i": {
         "README.md": "auto",
         "0643-maximum-average-subarray-i.py": "auto",
+        "difficulty": "easy"
+      },
+      "0653-two-sum-iv-input-is-a-bst": {
+        "README.md": "auto",
+        "0653-two-sum-iv-input-is-a-bst.py": "auto",
         "difficulty": "easy"
       },
       "0657-robot-return-to-origin": {
