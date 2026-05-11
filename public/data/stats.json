@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 100,
+    "easy": 101,
     "medium": 27,
     "hard": 4,
-    "solved": 131,
+    "solved": 132,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -522,6 +522,11 @@
       "1299-replace-elements-with-greatest-element-on-right-side": {
         "README.md": "auto",
         "1299-replace-elements-with-greatest-element-on-right-side.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1309-decrypt-string-from-alphabet-to-integer-mapping": {
+        "README.md": "auto",
+        "1309-decrypt-string-from-alphabet-to-integer-mapping.py": "auto",
         "difficulty": "easy"
       },
       "1365-how-many-numbers-are-smaller-than-the-current-number": {
