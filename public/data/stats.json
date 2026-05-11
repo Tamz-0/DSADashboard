@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 83,
+    "easy": 85,
     "medium": 27,
     "hard": 4,
-    "solved": 114,
+    "solved": 116,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -232,6 +232,11 @@
         "0152-maximum-product-subarray.java": "auto",
         "difficulty": "medium"
       },
+      "0160-intersection-of-two-linked-lists": {
+        "README.md": "auto",
+        "0160-intersection-of-two-linked-lists.cpp": "auto",
+        "difficulty": "easy"
+      },
       "0162-find-peak-element": {
         "README.md": "auto",
         "0162-find-peak-element.cpp": "auto",
@@ -243,6 +248,11 @@
         "0167-two-sum-ii-input-array-is-sorted.js": "auto",
         "0167-two-sum-ii-input-array-is-sorted.java": "auto",
         "difficulty": "medium"
+      },
+      "0168-excel-sheet-column-title": {
+        "README.md": "auto",
+        "0168-excel-sheet-column-title.cpp": "auto",
+        "difficulty": "easy"
       },
       "0171-excel-sheet-column-number": {
         "README.md": "auto",
