@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 103,
+    "easy": 105,
     "medium": 27,
     "hard": 4,
-    "solved": 134,
+    "solved": 136,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -529,6 +529,11 @@
         "1299-replace-elements-with-greatest-element-on-right-side.cpp": "auto",
         "difficulty": "easy"
       },
+      "1304-find-n-unique-integers-sum-up-to-zero": {
+        "1304-find-n-unique-integers-sum-up-to-zero.py": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
       "1309-decrypt-string-from-alphabet-to-integer-mapping": {
         "README.md": "auto",
         "1309-decrypt-string-from-alphabet-to-integer-mapping.py": "auto",
@@ -542,6 +547,11 @@
       "1365-how-many-numbers-are-smaller-than-the-current-number": {
         "README.md": "auto",
         "1365-how-many-numbers-are-smaller-than-the-current-number.py": "auto",
+        "difficulty": "easy"
+      },
+      "1370-increasing-decreasing-string": {
+        "README.md": "auto",
+        "1370-increasing-decreasing-string.py": "auto",
         "difficulty": "easy"
       },
       "1390-four-divisors": {
