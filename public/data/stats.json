@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 163,
+    "easy": 167,
     "medium": 27,
     "hard": 4,
-    "solved": 194,
+    "solved": 198,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -473,6 +473,16 @@
         "0744-find-smallest-letter-greater-than-target.cpp": "auto",
         "difficulty": "easy"
       },
+      "0844-backspace-string-compare": {
+        "README.md": "auto",
+        "0844-backspace-string-compare.py": "auto",
+        "difficulty": "easy"
+      },
+      "0859-buddy-strings": {
+        "README.md": "auto",
+        "0859-buddy-strings.py": "auto",
+        "difficulty": "easy"
+      },
       "0860-lemonade-change": {
         "README.md": "auto",
         "0860-lemonade-change.py": "auto",
@@ -488,9 +498,19 @@
         "0868-binary-gap.py": "auto",
         "difficulty": "easy"
       },
+      "0872-leaf-similar-trees": {
+        "README.md": "auto",
+        "0872-leaf-similar-trees.py": "auto",
+        "difficulty": "easy"
+      },
       "0876-middle-of-the-linked-list": {
         "README.md": "auto",
         "0876-middle-of-the-linked-list.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0883-projection-area-of-3d-shapes": {
+        "README.md": "auto",
+        "0883-projection-area-of-3d-shapes.py": "auto",
         "difficulty": "easy"
       },
       "0892-surface-area-of-3d-shapes": {
