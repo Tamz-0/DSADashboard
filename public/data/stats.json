@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 142,
+    "easy": 144,
     "medium": 27,
     "hard": 4,
-    "solved": 173,
+    "solved": 175,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -478,6 +478,11 @@
         "0876-middle-of-the-linked-list.cpp": "auto",
         "difficulty": "easy"
       },
+      "0897-increasing-order-search-tree": {
+        "README.md": "auto",
+        "0897-increasing-order-search-tree.py": "auto",
+        "difficulty": "easy"
+      },
       "0904-fruit-into-baskets": {
         "README.md": "auto",
         "0904-fruit-into-baskets.cpp": "auto",
@@ -486,6 +491,11 @@
       "0917-reverse-only-letters": {
         "README.md": "auto",
         "0917-reverse-only-letters.py": "auto",
+        "difficulty": "easy"
+      },
+      "0933-number-of-recent-calls": {
+        "README.md": "auto",
+        "0933-number-of-recent-calls.py": "auto",
         "difficulty": "easy"
       },
       "0938-range-sum-of-bst": {
