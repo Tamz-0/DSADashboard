@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 135,
+    "easy": 137,
     "medium": 27,
     "hard": 4,
-    "solved": 166,
+    "solved": 168,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -494,6 +494,11 @@
         "0977-squares-of-a-sorted-array.cpp": "auto",
         "difficulty": "easy"
       },
+      "0997-find-the-town-judge": {
+        "README.md": "auto",
+        "0997-find-the-town-judge.py": "auto",
+        "difficulty": "easy"
+      },
       "0999-available-captures-for-rook": {
         "README.md": "auto",
         "0999-available-captures-for-rook.py": "auto",
@@ -517,6 +522,11 @@
       "1021-remove-outermost-parentheses": {
         "README.md": "auto",
         "1021-remove-outermost-parentheses.py": "auto",
+        "difficulty": "easy"
+      },
+      "1022-sum-of-root-to-leaf-binary-numbers": {
+        "README.md": "auto",
+        "1022-sum-of-root-to-leaf-binary-numbers.py": "auto",
         "difficulty": "easy"
       },
       "1071-greatest-common-divisor-of-strings": {
