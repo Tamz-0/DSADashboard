@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 144,
+    "easy": 146,
     "medium": 27,
     "hard": 4,
-    "solved": 175,
+    "solved": 177,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -518,10 +518,20 @@
         "0974-subarray-sums-divisible-by-k.cpp": "auto",
         "difficulty": "medium"
       },
+      "0976-largest-perimeter-triangle": {
+        "README.md": "auto",
+        "0976-largest-perimeter-triangle.py": "auto",
+        "difficulty": "easy"
+      },
       "0977-squares-of-a-sorted-array": {
         "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0989-add-to-array-form-of-integer": {
+        "README.md": "auto",
+        "0989-add-to-array-form-of-integer.py": "auto",
         "difficulty": "easy"
       },
       "0993-cousins-in-binary-tree": {
