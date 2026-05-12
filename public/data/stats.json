@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 134,
+    "easy": 135,
     "medium": 27,
     "hard": 4,
-    "solved": 165,
+    "solved": 166,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -492,6 +492,11 @@
         "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0999-available-captures-for-rook": {
+        "README.md": "auto",
+        "0999-available-captures-for-rook.py": "auto",
         "difficulty": "easy"
       },
       "1005-maximize-sum-of-array-after-k-negations": {
