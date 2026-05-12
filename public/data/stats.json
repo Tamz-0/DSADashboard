@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 137,
+    "easy": 142,
     "medium": 27,
     "hard": 4,
-    "solved": 168,
+    "solved": 173,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -483,6 +483,26 @@
         "0904-fruit-into-baskets.cpp": "auto",
         "difficulty": "medium"
       },
+      "0917-reverse-only-letters": {
+        "README.md": "auto",
+        "0917-reverse-only-letters.py": "auto",
+        "difficulty": "easy"
+      },
+      "0938-range-sum-of-bst": {
+        "README.md": "auto",
+        "0938-range-sum-of-bst.py": "auto",
+        "difficulty": "easy"
+      },
+      "0953-verifying-an-alien-dictionary": {
+        "README.md": "auto",
+        "0953-verifying-an-alien-dictionary.py": "auto",
+        "difficulty": "easy"
+      },
+      "0961-n-repeated-element-in-size-2n-array": {
+        "README.md": "auto",
+        "0961-n-repeated-element-in-size-2n-array.py": "auto",
+        "difficulty": "easy"
+      },
       "0974-subarray-sums-divisible-by-k": {
         "README.md": "auto",
         "0974-subarray-sums-divisible-by-k.cpp": "auto",
@@ -492,6 +512,11 @@
         "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0993-cousins-in-binary-tree": {
+        "README.md": "auto",
+        "0993-cousins-in-binary-tree.py": "auto",
         "difficulty": "easy"
       },
       "0997-find-the-town-judge": {
