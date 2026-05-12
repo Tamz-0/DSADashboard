@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 167,
+    "easy": 168,
     "medium": 27,
     "hard": 4,
-    "solved": 198,
+    "solved": 199,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -511,6 +511,11 @@
       "0883-projection-area-of-3d-shapes": {
         "README.md": "auto",
         "0883-projection-area-of-3d-shapes.py": "auto",
+        "difficulty": "easy"
+      },
+      "0888-fair-candy-swap": {
+        "README.md": "auto",
+        "0888-fair-candy-swap.py": "auto",
         "difficulty": "easy"
       },
       "0892-surface-area-of-3d-shapes": {
