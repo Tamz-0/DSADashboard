@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 161,
+    "easy": 163,
     "medium": 27,
     "hard": 4,
-    "solved": 192,
+    "solved": 194,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -471,6 +471,16 @@
       "0744-find-smallest-letter-greater-than-target": {
         "README.md": "auto",
         "0744-find-smallest-letter-greater-than-target.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0860-lemonade-change": {
+        "README.md": "auto",
+        "0860-lemonade-change.py": "auto",
+        "difficulty": "easy"
+      },
+      "0867-transpose-matrix": {
+        "README.md": "auto",
+        "0867-transpose-matrix.py": "auto",
         "difficulty": "easy"
       },
       "0868-binary-gap": {
