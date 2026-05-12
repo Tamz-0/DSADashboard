@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 129,
+    "easy": 132,
     "medium": 27,
     "hard": 4,
-    "solved": 160,
+    "solved": 163,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -492,6 +492,21 @@
         "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1005-maximize-sum-of-array-after-k-negations": {
+        "README.md": "auto",
+        "1005-maximize-sum-of-array-after-k-negations.py": "auto",
+        "difficulty": "easy"
+      },
+      "1009-complement-of-base-10-integer": {
+        "README.md": "auto",
+        "1009-complement-of-base-10-integer.py": "auto",
+        "difficulty": "easy"
+      },
+      "1071-greatest-common-divisor-of-strings": {
+        "README.md": "auto",
+        "1071-greatest-common-divisor-of-strings.py": "auto",
         "difficulty": "easy"
       },
       "1078-occurrences-after-bigram": {
