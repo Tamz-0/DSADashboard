@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 158,
+    "easy": 161,
     "medium": 27,
     "hard": 4,
-    "solved": 189,
+    "solved": 192,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -521,6 +521,21 @@
       "0917-reverse-only-letters": {
         "README.md": "auto",
         "0917-reverse-only-letters.py": "auto",
+        "difficulty": "easy"
+      },
+      "0922-sort-array-by-parity-ii": {
+        "README.md": "auto",
+        "0922-sort-array-by-parity-ii.py": "auto",
+        "difficulty": "easy"
+      },
+      "0925-long-pressed-name": {
+        "README.md": "auto",
+        "0925-long-pressed-name.py": "auto",
+        "difficulty": "easy"
+      },
+      "0929-unique-email-addresses": {
+        "README.md": "auto",
+        "0929-unique-email-addresses.py": "auto",
         "difficulty": "easy"
       },
       "0933-number-of-recent-calls": {
