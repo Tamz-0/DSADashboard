@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 237,
+    "easy": 239,
     "medium": 27,
     "hard": 4,
-    "solved": 268,
+    "solved": 270,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -354,6 +354,16 @@
       "0387-first-unique-character-in-a-string": {
         "README.md": "auto",
         "0387-first-unique-character-in-a-string.java": "auto",
+        "difficulty": "easy"
+      },
+      "0392-is-subsequence": {
+        "README.md": "auto",
+        "0392-is-subsequence.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0401-binary-watch": {
+        "README.md": "auto",
+        "0401-binary-watch.cpp": "auto",
         "difficulty": "easy"
       },
       "0414-third-maximum-number": {
