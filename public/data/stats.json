@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 168,
+    "easy": 169,
     "medium": 27,
     "hard": 4,
-    "solved": 199,
+    "solved": 200,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -511,6 +511,11 @@
       "0883-projection-area-of-3d-shapes": {
         "README.md": "auto",
         "0883-projection-area-of-3d-shapes.py": "auto",
+        "difficulty": "easy"
+      },
+      "0884-uncommon-words-from-two-sentences": {
+        "README.md": "auto",
+        "0884-uncommon-words-from-two-sentences.py": "auto",
         "difficulty": "easy"
       },
       "0888-fair-candy-swap": {
