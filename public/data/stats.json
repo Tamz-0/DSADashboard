@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 188,
+    "easy": 190,
     "medium": 27,
     "hard": 4,
-    "solved": 219,
+    "solved": 221,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -491,6 +491,16 @@
       "0771-jewels-and-stones": {
         "README.md": "auto",
         "0771-jewels-and-stones.py": "auto",
+        "difficulty": "easy"
+      },
+      "0783-minimum-distance-between-bst-nodes": {
+        "README.md": "auto",
+        "0783-minimum-distance-between-bst-nodes.py": "auto",
+        "difficulty": "easy"
+      },
+      "0796-rotate-string": {
+        "README.md": "auto",
+        "0796-rotate-string.py": "auto",
         "difficulty": "easy"
       },
       "0804-unique-morse-code-words": {
