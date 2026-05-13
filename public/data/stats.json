@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 213,
+    "easy": 215,
     "medium": 27,
     "hard": 4,
-    "solved": 244,
+    "solved": 246,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -382,6 +382,16 @@
         "0525-contiguous-array.java": "auto",
         "0525-contiguous-array.cpp": "auto",
         "difficulty": "medium"
+      },
+      "0551-student-attendance-record-i": {
+        "README.md": "auto",
+        "0551-student-attendance-record-i.py": "auto",
+        "difficulty": "easy"
+      },
+      "0557-reverse-words-in-a-string-iii": {
+        "README.md": "auto",
+        "0557-reverse-words-in-a-string-iii.py": "auto",
+        "difficulty": "easy"
       },
       "0559-maximum-depth-of-n-ary-tree": {
         "0559-maximum-depth-of-n-ary-tree.py": "auto",
