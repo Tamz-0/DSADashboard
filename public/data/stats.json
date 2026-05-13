@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 203,
+    "easy": 204,
     "medium": 27,
     "hard": 4,
-    "solved": 234,
+    "solved": 235,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -387,6 +387,11 @@
         "README.md": "auto",
         "0560-subarray-sum-equals-k.java": "auto",
         "difficulty": "medium"
+      },
+      "0598-range-addition-ii": {
+        "README.md": "auto",
+        "0598-range-addition-ii.py": "auto",
+        "difficulty": "easy"
       },
       "0599-minimum-index-sum-of-two-lists": {
         "README.md": "auto",
