@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 183,
+    "easy": 188,
     "medium": 27,
     "hard": 4,
-    "solved": 214,
+    "solved": 219,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -473,6 +473,26 @@
         "0744-find-smallest-letter-greater-than-target.cpp": "auto",
         "difficulty": "easy"
       },
+      "0748-shortest-completing-word": {
+        "README.md": "auto",
+        "0748-shortest-completing-word.py": "auto",
+        "difficulty": "easy"
+      },
+      "0762-prime-number-of-set-bits-in-binary-representation": {
+        "README.md": "auto",
+        "0762-prime-number-of-set-bits-in-binary-representation.py": "auto",
+        "difficulty": "easy"
+      },
+      "0766-toeplitz-matrix": {
+        "README.md": "auto",
+        "0766-toeplitz-matrix.py": "auto",
+        "difficulty": "easy"
+      },
+      "0771-jewels-and-stones": {
+        "README.md": "auto",
+        "0771-jewels-and-stones.py": "auto",
+        "difficulty": "easy"
+      },
       "0804-unique-morse-code-words": {
         "README.md": "auto",
         "0804-unique-morse-code-words.py": "auto",
@@ -757,6 +777,11 @@
       "1047-remove-all-adjacent-duplicates-in-string": {
         "README.md": "auto",
         "1047-remove-all-adjacent-duplicates-in-string.py": "auto",
+        "difficulty": "easy"
+      },
+      "1051-height-checker": {
+        "README.md": "auto",
+        "1051-height-checker.py": "auto",
         "difficulty": "easy"
       },
       "1071-greatest-common-divisor-of-strings": {
