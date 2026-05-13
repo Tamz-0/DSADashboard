@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 195,
+    "easy": 198,
     "medium": 27,
     "hard": 4,
-    "solved": 226,
+    "solved": 229,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -468,9 +468,24 @@
         "0697-degree-of-an-array.py": "auto",
         "difficulty": "easy"
       },
+      "0700-search-in-a-binary-search-tree": {
+        "README.md": "auto",
+        "0700-search-in-a-binary-search-tree.py": "auto",
+        "difficulty": "easy"
+      },
       "0704-binary-search": {
         "README.md": "auto",
         "0704-binary-search.py": "auto",
+        "difficulty": "easy"
+      },
+      "0705-design-hashset": {
+        "README.md": "auto",
+        "0705-design-hashset.py": "auto",
+        "difficulty": "easy"
+      },
+      "0706-design-hashmap": {
+        "README.md": "auto",
+        "0706-design-hashmap.py": "auto",
         "difficulty": "easy"
       },
       "0709-to-lower-case": {
