@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 231,
+    "easy": 237,
     "medium": 27,
     "hard": 4,
-    "solved": 262,
+    "solved": 268,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -366,6 +366,16 @@
         "0424-longest-repeating-character-replacement.cpp": "auto",
         "difficulty": "medium"
       },
+      "0434-number-of-segments-in-a-string": {
+        "README.md": "auto",
+        "0434-number-of-segments-in-a-string.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0441-arranging-coins": {
+        "README.md": "auto",
+        "0441-arranging-coins.cpp": "auto",
+        "difficulty": "easy"
+      },
       "0448-find-all-numbers-disappeared-in-an-array": {
         "README.md": "auto",
         "0448-find-all-numbers-disappeared-in-an-array.py": "auto",
@@ -376,6 +386,26 @@
         "0453-minimum-moves-to-equal-array-elements.cpp": "auto",
         "0453-minimum-moves-to-equal-array-elements.java": "auto",
         "difficulty": "medium"
+      },
+      "0455-assign-cookies": {
+        "README.md": "auto",
+        "0455-assign-cookies.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0459-repeated-substring-pattern": {
+        "README.md": "auto",
+        "0459-repeated-substring-pattern.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0461-hamming-distance": {
+        "README.md": "auto",
+        "0461-hamming-distance.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0463-island-perimeter": {
+        "README.md": "auto",
+        "0463-island-perimeter.py": "auto",
+        "difficulty": "easy"
       },
       "0476-number-complement": {
         "README.md": "auto",
