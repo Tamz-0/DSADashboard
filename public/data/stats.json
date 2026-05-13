@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 205,
+    "easy": 213,
     "medium": 27,
     "hard": 4,
-    "solved": 236,
+    "solved": 244,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -383,10 +383,50 @@
         "0525-contiguous-array.cpp": "auto",
         "difficulty": "medium"
       },
+      "0559-maximum-depth-of-n-ary-tree": {
+        "0559-maximum-depth-of-n-ary-tree.py": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
       "0560-subarray-sum-equals-k": {
         "README.md": "auto",
         "0560-subarray-sum-equals-k.java": "auto",
         "difficulty": "medium"
+      },
+      "0561-array-partition": {
+        "README.md": "auto",
+        "0561-array-partition.py": "auto",
+        "difficulty": "easy"
+      },
+      "0563-binary-tree-tilt": {
+        "README.md": "auto",
+        "0563-binary-tree-tilt.py": "auto",
+        "difficulty": "easy"
+      },
+      "0566-reshape-the-matrix": {
+        "README.md": "auto",
+        "0566-reshape-the-matrix.py": "auto",
+        "difficulty": "easy"
+      },
+      "0572-subtree-of-another-tree": {
+        "README.md": "auto",
+        "0572-subtree-of-another-tree.py": "auto",
+        "difficulty": "easy"
+      },
+      "0575-distribute-candies": {
+        "README.md": "auto",
+        "0575-distribute-candies.py": "auto",
+        "difficulty": "easy"
+      },
+      "0589-n-ary-tree-preorder-traversal": {
+        "README.md": "auto",
+        "0589-n-ary-tree-preorder-traversal.py": "auto",
+        "difficulty": "easy"
+      },
+      "0590-n-ary-tree-postorder-traversal": {
+        "README.md": "auto",
+        "0590-n-ary-tree-postorder-traversal.py": "auto",
+        "difficulty": "easy"
       },
       "0594-longest-harmonious-subsequence": {
         "README.md": "auto",
