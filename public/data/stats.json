@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 204,
+    "easy": 205,
     "medium": 27,
     "hard": 4,
-    "solved": 235,
+    "solved": 236,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -387,6 +387,11 @@
         "README.md": "auto",
         "0560-subarray-sum-equals-k.java": "auto",
         "difficulty": "medium"
+      },
+      "0594-longest-harmonious-subsequence": {
+        "README.md": "auto",
+        "0594-longest-harmonious-subsequence.py": "auto",
+        "difficulty": "easy"
       },
       "0598-range-addition-ii": {
         "README.md": "auto",
