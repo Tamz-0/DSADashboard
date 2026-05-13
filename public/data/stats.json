@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 201,
+    "easy": 202,
     "medium": 27,
     "hard": 4,
-    "solved": 232,
+    "solved": 233,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -511,6 +511,11 @@
       "0728-self-dividing-numbers": {
         "README.md": "auto",
         "0728-self-dividing-numbers.py": "auto",
+        "difficulty": "easy"
+      },
+      "0733-flood-fill": {
+        "README.md": "auto",
+        "0733-flood-fill.py": "auto",
         "difficulty": "easy"
       },
       "0744-find-smallest-letter-greater-than-target": {
