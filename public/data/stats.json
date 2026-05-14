@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 261,
+    "easy": 262,
     "medium": 27,
     "hard": 4,
-    "solved": 292,
+    "solved": 293,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -287,6 +287,11 @@
         "README.md": "auto",
         "0217-contains-duplicate.cpp": "auto",
         "0217-contains-duplicate.java": "auto",
+        "difficulty": "easy"
+      },
+      "0222-count-complete-tree-nodes": {
+        "README.md": "auto",
+        "0222-count-complete-tree-nodes.py": "auto",
         "difficulty": "easy"
       },
       "0224-basic-calculator": {
