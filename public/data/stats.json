@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 266,
+    "easy": 267,
     "medium": 27,
     "hard": 4,
-    "solved": 297,
+    "solved": 298,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.cpp": "auto",
@@ -167,6 +167,11 @@
       "0104-maximum-depth-of-binary-tree": {
         "README.md": "auto",
         "0104-maximum-depth-of-binary-tree.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0108-convert-sorted-array-to-binary-search-tree": {
+        "0108-convert-sorted-array-to-binary-search-tree.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0110-balanced-binary-tree": {
