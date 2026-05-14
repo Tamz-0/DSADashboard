@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 269,
+    "easy": 270,
     "medium": 27,
     "hard": 4,
-    "solved": 300,
+    "solved": 301,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -333,6 +333,11 @@
       "0226-invert-binary-tree": {
         "README.md": "auto",
         "0226-invert-binary-tree.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "0228-summary-ranges": {
+        "README.md": "auto",
+        "0228-summary-ranges.cpp": "auto",
         "difficulty": "easy"
       },
       "0231-power-of-two": {
