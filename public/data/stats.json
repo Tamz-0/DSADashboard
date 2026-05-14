@@ -1,40 +1,40 @@
 {
   "leetcode": {
-    "easy": 262,
+    "easy": 266,
     "medium": 27,
     "hard": 4,
-    "solved": 293,
+    "solved": 297,
     "shas": {
       "0001-two-sum": {
-        "README.md": "auto",
         "0001-two-sum.cpp": "auto",
+        "README.md": "auto",
         "0001-two-sum.java": "auto",
         "difficulty": "easy"
       },
       "0003-longest-substring-without-repeating-characters": {
-        "README.md": "auto",
         "0003-longest-substring-without-repeating-characters.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0007-reverse-integer": {
-        "README.md": "auto",
         "0007-reverse-integer.py": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0009-palindrome-number": {
-        "README.md": "auto",
         "0009-palindrome-number.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0011-container-with-most-water": {
-        "README.md": "auto",
         "0011-container-with-most-water.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0013-roman-to-integer": {
-        "README.md": "auto",
-        "0013-roman-to-integer.cpp": "auto",
         "0013-roman-to-integer.py": "auto",
+        "0013-roman-to-integer.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0014-longest-common-prefix": {
@@ -43,13 +43,13 @@
         "difficulty": "easy"
       },
       "0015-3sum": {
-        "README.md": "auto",
         "0015-3sum.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0020-valid-parentheses": {
-        "README.md": "auto",
         "0020-valid-parentheses.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0021-merge-two-sorted-lists": {
@@ -58,110 +58,110 @@
         "difficulty": "easy"
       },
       "0026-remove-duplicates-from-sorted-array": {
-        "README.md": "auto",
         "0026-remove-duplicates-from-sorted-array.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0027-remove-element": {
-        "README.md": "auto",
-        "0027-remove-element.cpp": "auto",
         "0027-remove-element.py": "auto",
+        "0027-remove-element.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0028-find-the-index-of-the-first-occurrence-in-a-string": {
-        "README.md": "auto",
         "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0035-search-insert-position": {
-        "README.md": "auto",
         "0035-search-insert-position.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0042-trapping-rain-water": {
-        "README.md": "auto",
         "0042-trapping-rain-water.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "hard"
       },
       "0049-group-anagrams": {
-        "README.md": "auto",
         "0049-group-anagrams.py": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0050-powx-n": {
-        "README.md": "auto",
         "0050-powx-n.py": "auto",
         "0050-powx-n.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0053-maximum-subarray": {
-        "README.md": "auto",
         "0053-maximum-subarray.java": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0054-spiral-matrix": {
-        "README.md": "auto",
         "0054-spiral-matrix.py": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0058-length-of-last-word": {
-        "README.md": "auto",
         "0058-length-of-last-word.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0062-unique-paths": {
-        "README.md": "auto",
         "0062-unique-paths.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0066-plus-one": {
-        "README.md": "auto",
         "0066-plus-one.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0067-add-binary": {
-        "README.md": "auto",
         "0067-add-binary.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0069-sqrtx": {
-        "0069-sqrtx.cpp": "auto",
         "README.md": "auto",
+        "0069-sqrtx.cpp": "auto",
         "difficulty": "easy"
       },
       "0070-climbing-stairs": {
-        "README.md": "auto",
         "0070-climbing-stairs.java": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0075-sort-colors": {
-        "README.md": "auto",
         "0075-sort-colors.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0083-remove-duplicates-from-sorted-list": {
-        "README.md": "auto",
         "0083-remove-duplicates-from-sorted-list.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0088-merge-sorted-array": {
-        "README.md": "auto",
         "0088-merge-sorted-array.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0094-binary-tree-inorder-traversal": {
-        "README.md": "auto",
         "0094-binary-tree-inorder-traversal.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0098-validate-binary-search-tree": {
-        "README.md": "auto",
         "0098-validate-binary-search-tree.java": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0101-symmetric-tree": {
-        "README.md": "auto",
         "0101-symmetric-tree.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0104-maximum-depth-of-binary-tree": {
@@ -170,33 +170,33 @@
         "difficulty": "easy"
       },
       "0110-balanced-binary-tree": {
-        "README.md": "auto",
         "0110-balanced-binary-tree.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0111-minimum-depth-of-binary-tree": {
-        "README.md": "auto",
         "0111-minimum-depth-of-binary-tree.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0112-path-sum": {
-        "README.md": "auto",
         "0112-path-sum.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0118-pascals-triangle": {
-        "README.md": "auto",
         "0118-pascals-triangle.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0119-pascals-triangle-ii": {
-        "README.md": "auto",
         "0119-pascals-triangle-ii.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0121-best-time-to-buy-and-sell-stock": {
-        "README.md": "auto",
         "0121-best-time-to-buy-and-sell-stock.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0125-valid-palindrome": {
@@ -205,63 +205,73 @@
         "difficulty": "easy"
       },
       "0136-single-number": {
-        "README.md": "auto",
         "0136-single-number.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0141-linked-list-cycle": {
-        "README.md": "auto",
-        "0141-linked-list-cycle.js": "auto",
-        "0141-linked-list-cycle.java": "auto",
-        "0141-linked-list-cycle.cpp": "auto",
         "0141-linked-list-cycle.py": "auto",
+        "0141-linked-list-cycle.js": "auto",
+        "0141-linked-list-cycle.cpp": "auto",
+        "README.md": "auto",
+        "0141-linked-list-cycle.java": "auto",
         "difficulty": "easy"
       },
       "0144-binary-tree-preorder-traversal": {
-        "README.md": "auto",
         "0144-binary-tree-preorder-traversal.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0145-binary-tree-postorder-traversal": {
-        "README.md": "auto",
         "0145-binary-tree-postorder-traversal.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0152-maximum-product-subarray": {
-        "README.md": "auto",
         "0152-maximum-product-subarray.java": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0160-intersection-of-two-linked-lists": {
-        "README.md": "auto",
         "0160-intersection-of-two-linked-lists.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0162-find-peak-element": {
-        "README.md": "auto",
         "0162-find-peak-element.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0167-two-sum-ii-input-array-is-sorted": {
-        "README.md": "auto",
-        "0167-two-sum-ii-input-array-is-sorted.py": "auto",
-        "0167-two-sum-ii-input-array-is-sorted.js": "auto",
         "0167-two-sum-ii-input-array-is-sorted.java": "auto",
+        "0167-two-sum-ii-input-array-is-sorted.py": "auto",
+        "README.md": "auto",
+        "0167-two-sum-ii-input-array-is-sorted.js": "auto",
         "difficulty": "medium"
       },
       "0168-excel-sheet-column-title": {
-        "README.md": "auto",
         "0168-excel-sheet-column-title.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "0169-majority-element": {
+        "0169-majority-element.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0171-excel-sheet-column-number": {
-        "README.md": "auto",
         "0171-excel-sheet-column-number.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "0190-reverse-bits": {
+        "0190-reverse-bits.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0191-number-of-1-bits": {
-        "README.md": "auto",
         "0191-number-of-1-bits.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0202-happy-number": {
@@ -270,28 +280,39 @@
         "difficulty": "easy"
       },
       "0203-remove-linked-list-elements": {
+        "0203-remove-linked-list-elements.cpp": "auto",
         "README.md": "auto",
         "difficulty": "easy"
       },
       "0205-isomorphic-strings": {
-        "README.md": "auto",
         "0205-isomorphic-strings.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "0206-reverse-linked-list": {
+        "0206-reverse-linked-list.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0209-minimum-size-subarray-sum": {
-        "README.md": "auto",
         "0209-minimum-size-subarray-sum.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0217-contains-duplicate": {
-        "README.md": "auto",
         "0217-contains-duplicate.cpp": "auto",
         "0217-contains-duplicate.java": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "0219-contains-duplicate-ii": {
+        "0219-contains-duplicate-ii.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0222-count-complete-tree-nodes": {
-        "README.md": "auto",
         "0222-count-complete-tree-nodes.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0224-basic-calculator": {
@@ -300,216 +321,216 @@
         "difficulty": "hard"
       },
       "0231-power-of-two": {
-        "README.md": "auto",
         "0231-power-of-two.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0232-implement-queue-using-stacks": {
-        "README.md": "auto",
         "0232-implement-queue-using-stacks.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0234-palindrome-linked-list": {
-        "README.md": "auto",
         "0234-palindrome-linked-list.java": "auto",
         "0234-palindrome-linked-list.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0236-lowest-common-ancestor-of-a-binary-tree": {
-        "README.md": "auto",
         "0236-lowest-common-ancestor-of-a-binary-tree.java": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0238-product-of-array-except-self": {
-        "README.md": "auto",
         "0238-product-of-array-except-self.py": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0242-valid-anagram": {
-        "README.md": "auto",
         "0242-valid-anagram.java": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0257-binary-tree-paths": {
-        "README.md": "auto",
         "0257-binary-tree-paths.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0258-add-digits": {
-        "README.md": "auto",
         "0258-add-digits.java": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0263-ugly-number": {
-        "README.md": "auto",
         "0263-ugly-number.java": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0268-missing-number": {
-        "README.md": "auto",
         "0268-missing-number.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0278-first-bad-version": {
-        "README.md": "auto",
         "0278-first-bad-version.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0283-move-zeroes": {
-        "README.md": "auto",
         "0283-move-zeroes.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0287-find-the-duplicate-number": {
-        "README.md": "auto",
-        "0287-find-the-duplicate-number.java": "auto",
         "0287-find-the-duplicate-number.cpp": "auto",
+        "0287-find-the-duplicate-number.java": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0290-word-pattern": {
-        "README.md": "auto",
         "0290-word-pattern.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0292-nim-game": {
-        "README.md": "auto",
         "0292-nim-game.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0303-range-sum-query-immutable": {
-        "README.md": "auto",
         "0303-range-sum-query-immutable.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0326-power-of-three": {
-        "README.md": "auto",
         "0326-power-of-three.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0338-counting-bits": {
-        "README.md": "auto",
         "0338-counting-bits.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0342-power-of-four": {
-        "README.md": "auto",
         "0342-power-of-four.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0344-reverse-string": {
-        "README.md": "auto",
         "0344-reverse-string.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0345-reverse-vowels-of-a-string": {
-        "README.md": "auto",
         "0345-reverse-vowels-of-a-string.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0349-intersection-of-two-arrays": {
-        "README.md": "auto",
         "0349-intersection-of-two-arrays.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0350-intersection-of-two-arrays-ii": {
-        "README.md": "auto",
         "0350-intersection-of-two-arrays-ii.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0367-valid-perfect-square": {
-        "README.md": "auto",
         "0367-valid-perfect-square.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0374-guess-number-higher-or-lower": {
-        "README.md": "auto",
         "0374-guess-number-higher-or-lower.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0383-ransom-note": {
-        "README.md": "auto",
         "0383-ransom-note.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0387-first-unique-character-in-a-string": {
-        "README.md": "auto",
         "0387-first-unique-character-in-a-string.java": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0389-find-the-difference": {
-        "README.md": "auto",
         "0389-find-the-difference.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0392-is-subsequence": {
-        "README.md": "auto",
         "0392-is-subsequence.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0401-binary-watch": {
-        "README.md": "auto",
         "0401-binary-watch.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0404-sum-of-left-leaves": {
-        "README.md": "auto",
         "0404-sum-of-left-leaves.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0405-convert-a-number-to-hexadecimal": {
-        "README.md": "auto",
         "0405-convert-a-number-to-hexadecimal.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0409-longest-palindrome": {
-        "README.md": "auto",
         "0409-longest-palindrome.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0412-fizz-buzz": {
-        "README.md": "auto",
         "0412-fizz-buzz.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0414-third-maximum-number": {
-        "README.md": "auto",
         "0414-third-maximum-number.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0415-add-strings": {
-        "README.md": "auto",
         "0415-add-strings.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0424-longest-repeating-character-replacement": {
-        "README.md": "auto",
         "0424-longest-repeating-character-replacement.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0434-number-of-segments-in-a-string": {
-        "README.md": "auto",
         "0434-number-of-segments-in-a-string.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0441-arranging-coins": {
-        "README.md": "auto",
         "0441-arranging-coins.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0448-find-all-numbers-disappeared-in-an-array": {
-        "README.md": "auto",
         "0448-find-all-numbers-disappeared-in-an-array.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0453-minimum-moves-to-equal-array-elements": {
-        "README.md": "auto",
-        "0453-minimum-moves-to-equal-array-elements.cpp": "auto",
         "0453-minimum-moves-to-equal-array-elements.java": "auto",
+        "0453-minimum-moves-to-equal-array-elements.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0455-assign-cookies": {
-        "README.md": "auto",
         "0455-assign-cookies.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0459-repeated-substring-pattern": {
@@ -518,23 +539,23 @@
         "difficulty": "easy"
       },
       "0461-hamming-distance": {
-        "README.md": "auto",
         "0461-hamming-distance.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0463-island-perimeter": {
-        "README.md": "auto",
         "0463-island-perimeter.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0476-number-complement": {
-        "README.md": "auto",
         "0476-number-complement.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0482-license-key-formatting": {
-        "README.md": "auto",
         "0482-license-key-formatting.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0485-max-consecutive-ones": {
@@ -543,84 +564,84 @@
         "difficulty": "easy"
       },
       "0492-construct-the-rectangle": {
-        "README.md": "auto",
         "0492-construct-the-rectangle.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0495-teemo-attacking": {
-        "README.md": "auto",
         "0495-teemo-attacking.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0496-next-greater-element-i": {
-        "README.md": "auto",
         "0496-next-greater-element-i.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0500-keyboard-row": {
-        "README.md": "auto",
         "0500-keyboard-row.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0501-find-mode-in-binary-search-tree": {
-        "README.md": "auto",
         "0501-find-mode-in-binary-search-tree.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0504-base-7": {
-        "README.md": "auto",
         "0504-base-7.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0507-perfect-number": {
-        "README.md": "auto",
         "0507-perfect-number.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0509-fibonacci-number": {
-        "README.md": "auto",
         "0509-fibonacci-number.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0520-detect-capital": {
-        "README.md": "auto",
         "0520-detect-capital.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0521-longest-uncommon-subsequence-i": {
-        "README.md": "auto",
         "0521-longest-uncommon-subsequence-i.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0525-contiguous-array": {
-        "README.md": "auto",
         "0525-contiguous-array.java": "auto",
         "0525-contiguous-array.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0530-minimum-absolute-difference-in-bst": {
-        "README.md": "auto",
         "0530-minimum-absolute-difference-in-bst.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0541-reverse-string-ii": {
-        "README.md": "auto",
         "0541-reverse-string-ii.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0543-diameter-of-binary-tree": {
-        "README.md": "auto",
         "0543-diameter-of-binary-tree.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0551-student-attendance-record-i": {
-        "README.md": "auto",
         "0551-student-attendance-record-i.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0557-reverse-words-in-a-string-iii": {
-        "README.md": "auto",
         "0557-reverse-words-in-a-string-iii.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0559-maximum-depth-of-n-ary-tree": {
@@ -629,73 +650,73 @@
         "difficulty": "easy"
       },
       "0560-subarray-sum-equals-k": {
-        "README.md": "auto",
         "0560-subarray-sum-equals-k.java": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0561-array-partition": {
-        "README.md": "auto",
         "0561-array-partition.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0563-binary-tree-tilt": {
-        "README.md": "auto",
         "0563-binary-tree-tilt.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0566-reshape-the-matrix": {
-        "README.md": "auto",
         "0566-reshape-the-matrix.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0572-subtree-of-another-tree": {
-        "README.md": "auto",
         "0572-subtree-of-another-tree.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0575-distribute-candies": {
-        "README.md": "auto",
         "0575-distribute-candies.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0589-n-ary-tree-preorder-traversal": {
-        "README.md": "auto",
         "0589-n-ary-tree-preorder-traversal.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0590-n-ary-tree-postorder-traversal": {
-        "README.md": "auto",
         "0590-n-ary-tree-postorder-traversal.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0594-longest-harmonious-subsequence": {
-        "README.md": "auto",
         "0594-longest-harmonious-subsequence.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0598-range-addition-ii": {
-        "README.md": "auto",
         "0598-range-addition-ii.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0599-minimum-index-sum-of-two-lists": {
-        "README.md": "auto",
         "0599-minimum-index-sum-of-two-lists.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0605-can-place-flowers": {
-        "README.md": "auto",
         "0605-can-place-flowers.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0617-merge-two-binary-trees": {
-        "README.md": "auto",
         "0617-merge-two-binary-trees.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0628-maximum-product-of-three-numbers": {
-        "README.md": "auto",
         "0628-maximum-product-of-three-numbers.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0637-average-of-levels-in-binary-tree": {
@@ -704,18 +725,18 @@
         "difficulty": "easy"
       },
       "0643-maximum-average-subarray-i": {
-        "README.md": "auto",
         "0643-maximum-average-subarray-i.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0645-set-mismatch": {
-        "README.md": "auto",
         "0645-set-mismatch.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0653-two-sum-iv-input-is-a-bst": {
-        "README.md": "auto",
         "0653-two-sum-iv-input-is-a-bst.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0657-robot-return-to-origin": {
@@ -729,8 +750,8 @@
         "difficulty": "easy"
       },
       "0671-second-minimum-node-in-a-binary-tree": {
-        "README.md": "auto",
         "0671-second-minimum-node-in-a-binary-tree.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0674-longest-continuous-increasing-subsequence": {
@@ -739,198 +760,198 @@
         "difficulty": "easy"
       },
       "0680-valid-palindrome-ii": {
-        "README.md": "auto",
         "0680-valid-palindrome-ii.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0682-baseball-game": {
-        "README.md": "auto",
         "0682-baseball-game.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0693-binary-number-with-alternating-bits": {
-        "README.md": "auto",
         "0693-binary-number-with-alternating-bits.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0696-count-binary-substrings": {
-        "README.md": "auto",
         "0696-count-binary-substrings.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0697-degree-of-an-array": {
-        "README.md": "auto",
         "0697-degree-of-an-array.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0700-search-in-a-binary-search-tree": {
-        "README.md": "auto",
         "0700-search-in-a-binary-search-tree.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0703-kth-largest-element-in-a-stream": {
-        "README.md": "auto",
         "0703-kth-largest-element-in-a-stream.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0704-binary-search": {
-        "README.md": "auto",
         "0704-binary-search.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0705-design-hashset": {
-        "README.md": "auto",
         "0705-design-hashset.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0706-design-hashmap": {
-        "README.md": "auto",
         "0706-design-hashmap.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0709-to-lower-case": {
-        "README.md": "auto",
         "0709-to-lower-case.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0717-1-bit-and-2-bit-characters": {
-        "README.md": "auto",
         "0717-1-bit-and-2-bit-characters.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0724-find-pivot-index": {
-        "README.md": "auto",
         "0724-find-pivot-index.js": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0728-self-dividing-numbers": {
-        "README.md": "auto",
         "0728-self-dividing-numbers.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0733-flood-fill": {
-        "README.md": "auto",
         "0733-flood-fill.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0744-find-smallest-letter-greater-than-target": {
-        "README.md": "auto",
         "0744-find-smallest-letter-greater-than-target.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0746-min-cost-climbing-stairs": {
-        "README.md": "auto",
         "0746-min-cost-climbing-stairs.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0747-largest-number-at-least-twice-of-others": {
-        "README.md": "auto",
         "0747-largest-number-at-least-twice-of-others.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0748-shortest-completing-word": {
-        "README.md": "auto",
         "0748-shortest-completing-word.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0762-prime-number-of-set-bits-in-binary-representation": {
-        "README.md": "auto",
         "0762-prime-number-of-set-bits-in-binary-representation.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0766-toeplitz-matrix": {
-        "README.md": "auto",
         "0766-toeplitz-matrix.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0771-jewels-and-stones": {
-        "README.md": "auto",
         "0771-jewels-and-stones.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0783-minimum-distance-between-bst-nodes": {
-        "README.md": "auto",
         "0783-minimum-distance-between-bst-nodes.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0796-rotate-string": {
-        "README.md": "auto",
         "0796-rotate-string.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0804-unique-morse-code-words": {
-        "README.md": "auto",
         "0804-unique-morse-code-words.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0806-number-of-lines-to-write-string": {
-        "README.md": "auto",
         "0806-number-of-lines-to-write-string.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0812-largest-triangle-area": {
-        "README.md": "auto",
         "0812-largest-triangle-area.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0819-most-common-word": {
-        "README.md": "auto",
         "0819-most-common-word.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0821-shortest-distance-to-a-character": {
-        "README.md": "auto",
         "0821-shortest-distance-to-a-character.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0824-goat-latin": {
-        "README.md": "auto",
         "0824-goat-latin.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0830-positions-of-large-groups": {
-        "README.md": "auto",
         "0830-positions-of-large-groups.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0832-flipping-an-image": {
-        "README.md": "auto",
         "0832-flipping-an-image.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0836-rectangle-overlap": {
-        "README.md": "auto",
         "0836-rectangle-overlap.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0844-backspace-string-compare": {
-        "README.md": "auto",
         "0844-backspace-string-compare.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0859-buddy-strings": {
-        "README.md": "auto",
         "0859-buddy-strings.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0860-lemonade-change": {
-        "README.md": "auto",
         "0860-lemonade-change.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0867-transpose-matrix": {
-        "README.md": "auto",
         "0867-transpose-matrix.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0868-binary-gap": {
-        "README.md": "auto",
         "0868-binary-gap.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0872-leaf-similar-trees": {
-        "README.md": "auto",
         "0872-leaf-similar-trees.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0876-middle-of-the-linked-list": {
@@ -939,38 +960,38 @@
         "difficulty": "easy"
       },
       "0883-projection-area-of-3d-shapes": {
-        "README.md": "auto",
         "0883-projection-area-of-3d-shapes.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0884-uncommon-words-from-two-sentences": {
-        "README.md": "auto",
         "0884-uncommon-words-from-two-sentences.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0888-fair-candy-swap": {
-        "README.md": "auto",
         "0888-fair-candy-swap.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0892-surface-area-of-3d-shapes": {
-        "README.md": "auto",
         "0892-surface-area-of-3d-shapes.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0896-monotonic-array": {
-        "README.md": "auto",
         "0896-monotonic-array.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0897-increasing-order-search-tree": {
-        "README.md": "auto",
         "0897-increasing-order-search-tree.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0904-fruit-into-baskets": {
-        "README.md": "auto",
         "0904-fruit-into-baskets.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0905-sort-array-by-parity": {
@@ -979,63 +1000,63 @@
         "difficulty": "easy"
       },
       "0908-smallest-range-i": {
-        "README.md": "auto",
         "0908-smallest-range-i.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0914-x-of-a-kind-in-a-deck-of-cards": {
-        "README.md": "auto",
         "0914-x-of-a-kind-in-a-deck-of-cards.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0917-reverse-only-letters": {
-        "README.md": "auto",
         "0917-reverse-only-letters.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0922-sort-array-by-parity-ii": {
-        "README.md": "auto",
         "0922-sort-array-by-parity-ii.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0925-long-pressed-name": {
-        "README.md": "auto",
         "0925-long-pressed-name.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0929-unique-email-addresses": {
-        "README.md": "auto",
         "0929-unique-email-addresses.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0933-number-of-recent-calls": {
-        "README.md": "auto",
         "0933-number-of-recent-calls.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0938-range-sum-of-bst": {
-        "README.md": "auto",
         "0938-range-sum-of-bst.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0941-valid-mountain-array": {
-        "README.md": "auto",
         "0941-valid-mountain-array.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0942-di-string-match": {
-        "README.md": "auto",
         "0942-di-string-match.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0944-delete-columns-to-make-sorted": {
-        "README.md": "auto",
         "0944-delete-columns-to-make-sorted.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0953-verifying-an-alien-dictionary": {
-        "README.md": "auto",
         "0953-verifying-an-alien-dictionary.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0961-n-repeated-element-in-size-2n-array": {
@@ -1044,44 +1065,44 @@
         "difficulty": "easy"
       },
       "0965-univalued-binary-tree": {
-        "README.md": "auto",
         "0965-univalued-binary-tree.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0974-subarray-sums-divisible-by-k": {
-        "README.md": "auto",
         "0974-subarray-sums-divisible-by-k.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0976-largest-perimeter-triangle": {
-        "README.md": "auto",
         "0976-largest-perimeter-triangle.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0977-squares-of-a-sorted-array": {
-        "README.md": "auto",
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0989-add-to-array-form-of-integer": {
-        "README.md": "auto",
         "0989-add-to-array-form-of-integer.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0993-cousins-in-binary-tree": {
-        "README.md": "auto",
         "0993-cousins-in-binary-tree.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0997-find-the-town-judge": {
-        "README.md": "auto",
         "0997-find-the-town-judge.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "0999-available-captures-for-rook": {
-        "README.md": "auto",
         "0999-available-captures-for-rook.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1002-find-common-characters": {
@@ -1090,58 +1111,58 @@
         "difficulty": "easy"
       },
       "1005-maximize-sum-of-array-after-k-negations": {
-        "README.md": "auto",
         "1005-maximize-sum-of-array-after-k-negations.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1009-complement-of-base-10-integer": {
-        "README.md": "auto",
         "1009-complement-of-base-10-integer.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1013-partition-array-into-three-parts-with-equal-sum": {
-        "README.md": "auto",
         "1013-partition-array-into-three-parts-with-equal-sum.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1018-binary-prefix-divisible-by-5": {
-        "README.md": "auto",
         "1018-binary-prefix-divisible-by-5.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1021-remove-outermost-parentheses": {
-        "README.md": "auto",
         "1021-remove-outermost-parentheses.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1022-sum-of-root-to-leaf-binary-numbers": {
-        "README.md": "auto",
         "1022-sum-of-root-to-leaf-binary-numbers.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1025-divisor-game": {
-        "README.md": "auto",
         "1025-divisor-game.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1030-matrix-cells-in-distance-order": {
-        "README.md": "auto",
         "1030-matrix-cells-in-distance-order.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1037-valid-boomerang": {
-        "README.md": "auto",
         "1037-valid-boomerang.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1046-last-stone-weight": {
-        "README.md": "auto",
         "1046-last-stone-weight.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1047-remove-all-adjacent-duplicates-in-string": {
-        "README.md": "auto",
         "1047-remove-all-adjacent-duplicates-in-string.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1051-height-checker": {
@@ -1150,133 +1171,133 @@
         "difficulty": "easy"
       },
       "1071-greatest-common-divisor-of-strings": {
-        "README.md": "auto",
         "1071-greatest-common-divisor-of-strings.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1078-occurrences-after-bigram": {
-        "README.md": "auto",
         "1078-occurrences-after-bigram.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1089-duplicate-zeros": {
-        "README.md": "auto",
         "1089-duplicate-zeros.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1103-distribute-candies-to-people": {
-        "README.md": "auto",
         "1103-distribute-candies-to-people.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1108-defanging-an-ip-address": {
-        "README.md": "auto",
         "1108-defanging-an-ip-address.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1114-print-in-order": {
-        "README.md": "auto",
         "1114-print-in-order.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1122-relative-sort-array": {
-        "README.md": "auto",
         "1122-relative-sort-array.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1128-number-of-equivalent-domino-pairs": {
-        "README.md": "auto",
         "1128-number-of-equivalent-domino-pairs.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1137-n-th-tribonacci-number": {
-        "README.md": "auto",
         "1137-n-th-tribonacci-number.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1154-day-of-the-year": {
-        "README.md": "auto",
         "1154-day-of-the-year.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1160-find-words-that-can-be-formed-by-characters": {
-        "README.md": "auto",
         "1160-find-words-that-can-be-formed-by-characters.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1175-prime-arrangements": {
-        "README.md": "auto",
         "1175-prime-arrangements.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1184-distance-between-bus-stops": {
-        "README.md": "auto",
         "1184-distance-between-bus-stops.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1185-day-of-the-week": {
-        "README.md": "auto",
         "1185-day-of-the-week.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1186-maximum-subarray-sum-with-one-deletion": {
-        "README.md": "auto",
         "1186-maximum-subarray-sum-with-one-deletion.java": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "1189-maximum-number-of-balloons": {
-        "README.md": "auto",
         "1189-maximum-number-of-balloons.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1200-minimum-absolute-difference": {
-        "README.md": "auto",
         "1200-minimum-absolute-difference.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1207-unique-number-of-occurrences": {
-        "README.md": "auto",
         "1207-unique-number-of-occurrences.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1217-minimum-cost-to-move-chips-to-the-same-position": {
-        "README.md": "auto",
         "1217-minimum-cost-to-move-chips-to-the-same-position.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1221-split-a-string-in-balanced-strings": {
-        "README.md": "auto",
         "1221-split-a-string-in-balanced-strings.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1232-check-if-it-is-a-straight-line": {
-        "README.md": "auto",
         "1232-check-if-it-is-a-straight-line.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1252-cells-with-odd-values-in-a-matrix": {
-        "README.md": "auto",
         "1252-cells-with-odd-values-in-a-matrix.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1260-shift-2d-grid": {
-        "README.md": "auto",
         "1260-shift-2d-grid.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1266-minimum-time-visiting-all-points": {
-        "README.md": "auto",
         "1266-minimum-time-visiting-all-points.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1275-find-winner-on-a-tic-tac-toe-game": {
-        "README.md": "auto",
         "1275-find-winner-on-a-tic-tac-toe-game.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1281-subtract-the-product-and-sum-of-digits-of-an-integer": {
-        "README.md": "auto",
         "1281-subtract-the-product-and-sum-of-digits-of-an-integer.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1287-element-appearing-more-than-25-in-sorted-array": {
@@ -1285,18 +1306,18 @@
         "difficulty": "easy"
       },
       "1290-convert-binary-number-in-a-linked-list-to-integer": {
-        "README.md": "auto",
         "1290-convert-binary-number-in-a-linked-list-to-integer.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1295-find-numbers-with-even-number-of-digits": {
-        "README.md": "auto",
         "1295-find-numbers-with-even-number-of-digits.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1299-replace-elements-with-greatest-element-on-right-side": {
-        "README.md": "auto",
         "1299-replace-elements-with-greatest-element-on-right-side.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1304-find-n-unique-integers-sum-up-to-zero": {
@@ -1305,18 +1326,18 @@
         "difficulty": "easy"
       },
       "1309-decrypt-string-from-alphabet-to-integer-mapping": {
-        "README.md": "auto",
         "1309-decrypt-string-from-alphabet-to-integer-mapping.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1313-decompress-run-length-encoded-list": {
-        "README.md": "auto",
         "1313-decompress-run-length-encoded-list.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1323-maximum-69-number": {
-        "README.md": "auto",
         "1323-maximum-69-number.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1365-how-many-numbers-are-smaller-than-the-current-number": {
@@ -1325,68 +1346,68 @@
         "difficulty": "easy"
       },
       "1370-increasing-decreasing-string": {
-        "README.md": "auto",
         "1370-increasing-decreasing-string.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1390-four-divisors": {
-        "README.md": "auto",
         "1390-four-divisors.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "1486-xor-operation-in-an-array": {
-        "README.md": "auto",
         "1486-xor-operation-in-an-array.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1550-three-consecutive-odds": {
-        "README.md": "auto",
         "1550-three-consecutive-odds.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1672-richest-customer-wealth": {
-        "README.md": "auto",
         "1672-richest-customer-wealth.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1700-number-of-students-unable-to-eat-lunch": {
-        "README.md": "auto",
         "1700-number-of-students-unable-to-eat-lunch.c": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1749-maximum-absolute-sum-of-any-subarray": {
-        "README.md": "auto",
         "1749-maximum-absolute-sum-of-any-subarray.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "1822-sign-of-the-product-of-an-array": {
-        "README.md": "auto",
         "1822-sign-of-the-product-of-an-array.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1832-check-if-the-sentence-is-pangram": {
-        "README.md": "auto",
         "1832-check-if-the-sentence-is-pangram.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2073-time-needed-to-buy-tickets": {
-        "README.md": "auto",
         "2073-time-needed-to-buy-tickets.java": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2108-find-first-palindromic-string-in-the-array": {
-        "README.md": "auto",
         "2108-find-first-palindromic-string-in-the-array.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2114-maximum-number-of-words-found-in-sentences": {
-        "README.md": "auto",
         "2114-maximum-number-of-words-found-in-sentences.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2351-first-letter-to-appear-twice": {
-        "README.md": "auto",
         "2351-first-letter-to-appear-twice.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2520-count-the-digits-that-divide-a-number": {
@@ -1395,97 +1416,97 @@
         "difficulty": "easy"
       },
       "2529-maximum-count-of-positive-integer-and-negative-integer": {
-        "README.md": "auto",
         "2529-maximum-count-of-positive-integer-and-negative-integer.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2535-difference-between-element-sum-and-digit-sum-of-an-array": {
-        "README.md": "auto",
         "2535-difference-between-element-sum-and-digit-sum-of-an-array.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2553-separate-the-digits-in-an-array": {
-        "README.md": "auto",
         "2553-separate-the-digits-in-an-array.py": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2620-counter": {
-        "README.md": "auto",
         "2620-counter.js": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2652-sum-multiples": {
-        "README.md": "auto",
         "2652-sum-multiples.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2769-find-the-maximum-achievable-number": {
-        "README.md": "auto",
         "2769-find-the-maximum-achievable-number.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2798-number-of-employees-who-met-the-target": {
-        "README.md": "auto",
         "2798-number-of-employees-who-met-the-target.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2894-divisible-and-non-divisible-sums-difference": {
-        "README.md": "auto",
         "2894-divisible-and-non-divisible-sums-difference.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2942-find-words-containing-character": {
-        "README.md": "auto",
         "2942-find-words-containing-character.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2974-minimum-number-game": {
-        "README.md": "auto",
         "2974-minimum-number-game.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "3010-divide-an-array-into-subarrays-with-minimum-cost-i": {
+        "3010-divide-an-array-into-subarrays-with-minimum-cost-i.java": "auto",
         "3010-divide-an-array-into-subarrays-with-minimum-cost-i.cpp": "auto",
         "README.md": "auto",
-        "3010-divide-an-array-into-subarrays-with-minimum-cost-i.java": "auto",
         "difficulty": "easy"
       },
       "3013-divide-an-array-into-subarrays-with-minimum-cost-ii": {
-        "README.md": "auto",
         "3013-divide-an-array-into-subarrays-with-minimum-cost-ii.java": "auto",
+        "README.md": "auto",
         "difficulty": "hard"
       },
       "3019-number-of-changing-keys": {
-        "README.md": "auto",
         "3019-number-of-changing-keys.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "3024-type-of-triangle": {
-        "README.md": "auto",
         "3024-type-of-triangle.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "3226-number-of-bit-changes-to-make-two-integers-equal": {
-        "README.md": "auto",
         "3226-number-of-bit-changes-to-make-two-integers-equal.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "3232-find-if-digit-game-can-be-won": {
-        "README.md": "auto",
         "3232-find-if-digit-game-can-be-won.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "3637-trionic-array-i": {
-        "README.md": "auto",
         "3637-trionic-array-i.py": "auto",
         "3637-trionic-array-i.js": "auto",
         "3637-trionic-array-i.java": "auto",
         "3637-trionic-array-i.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "3640-trionic-array-ii": {
-        "README.md": "auto",
         "3640-trionic-array-ii.java": "auto",
+        "README.md": "auto",
         "difficulty": "hard"
       }
     }
