@@ -446,7 +446,7 @@ function Navbar({ theme, toggleTheme, stats, onCmdOpen }) {
           <button className="btn-icon" onClick={onCmdOpen} title="search">
             <svg width="14" height="14" viewBox="0 0 14 14" fill="none"><rect x="1.5" y="1.5" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="8" y="1.5" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="1.5" y="8" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/><rect x="8" y="8" width="4.5" height="4.5" rx="1.2" stroke="currentColor" strokeWidth="1.3"/></svg>
           </button>
-    <a href="https://tahaportfolio.pages.dev" target="_blank" rel="noopener noreferrer"
+    <a href="https://tahazaman.is-a.dev/" target="_blank" rel="noopener noreferrer"
   title="My Portfolio"
   className="btn-icon">
   <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
