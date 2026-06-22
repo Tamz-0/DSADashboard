@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 270,
+    "easy": 271,
     "medium": 29,
     "hard": 4,
-    "solved": 303,
+    "solved": 304,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1455,6 +1455,11 @@
       "2535-difference-between-element-sum-and-digit-sum-of-an-array": {
         "README.md": "auto",
         "2535-difference-between-element-sum-and-digit-sum-of-an-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2549-count-distinct-numbers-on-board": {
+        "README.md": "auto",
+        "2549-count-distinct-numbers-on-board.cpp": "auto",
         "difficulty": "easy"
       },
       "2553-separate-the-digits-in-an-array": {
