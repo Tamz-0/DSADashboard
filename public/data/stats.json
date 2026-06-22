@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 270,
-    "medium": 27,
+    "medium": 28,
     "hard": 4,
-    "solved": 301,
+    "solved": 302,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1291,6 +1291,11 @@
         "README.md": "auto",
         "1221-split-a-string-in-balanced-strings.py": "auto",
         "difficulty": "easy"
+      },
+      "1227-airplane-seat-assignment-probability": {
+        "README.md": "auto",
+        "1227-airplane-seat-assignment-probability.cpp": "auto",
+        "difficulty": "medium"
       },
       "1232-check-if-it-is-a-straight-line": {
         "1232-check-if-it-is-a-straight-line.py": "auto",
