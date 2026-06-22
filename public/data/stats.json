@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 271,
+    "easy": 273,
     "medium": 29,
     "hard": 4,
-    "solved": 304,
+    "solved": 306,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -380,6 +380,7 @@
       "0258-add-digits": {
         "README.md": "auto",
         "0258-add-digits.java": "auto",
+        "0258-add-digits.cpp": "auto",
         "difficulty": "easy"
       },
       "0263-ugly-number": {
@@ -1442,6 +1443,11 @@
         "2351-first-letter-to-appear-twice.cpp": "auto",
         "difficulty": "easy"
       },
+      "2413-smallest-even-multiple": {
+        "README.md": "auto",
+        "2413-smallest-even-multiple.cpp": "auto",
+        "difficulty": "easy"
+      },
       "2520-count-the-digits-that-divide-a-number": {
         "README.md": "auto",
         "2520-count-the-digits-that-divide-a-number.cpp": "auto",
@@ -1485,6 +1491,11 @@
       "2798-number-of-employees-who-met-the-target": {
         "README.md": "auto",
         "2798-number-of-employees-who-met-the-target.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2806-account-balance-after-rounded-purchase": {
+        "README.md": "auto",
+        "2806-account-balance-after-rounded-purchase.cpp": "auto",
         "difficulty": "easy"
       },
       "2894-divisible-and-non-divisible-sums-difference": {
