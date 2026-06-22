@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 270,
-    "medium": 28,
+    "medium": 29,
     "hard": 4,
-    "solved": 302,
+    "solved": 303,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -980,6 +980,11 @@
         "0876-middle-of-the-linked-list.cpp": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "0881-boats-to-save-people": {
+        "README.md": "auto",
+        "0881-boats-to-save-people.cpp": "auto",
+        "difficulty": "medium"
       },
       "0883-projection-area-of-3d-shapes": {
         "0883-projection-area-of-3d-shapes.py": "auto",
