@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 275,
+    "easy": 276,
     "medium": 30,
     "hard": 4,
-    "solved": 309,
+    "solved": 310,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1481,6 +1481,11 @@
       "2582-pass-the-pillow": {
         "README.md": "auto",
         "2582-pass-the-pillow.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2600-k-items-with-the-maximum-sum": {
+        "README.md": "auto",
+        "2600-k-items-with-the-maximum-sum.cpp": "auto",
         "difficulty": "easy"
       },
       "2620-counter": {
