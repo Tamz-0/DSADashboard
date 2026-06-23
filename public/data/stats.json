@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 277,
+    "easy": 278,
     "medium": 30,
     "hard": 4,
-    "solved": 311,
+    "solved": 312,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1176,6 +1176,7 @@
       "1025-divisor-game": {
         "README.md": "auto",
         "1025-divisor-game.py": "auto",
+        "1025-divisor-game.cpp": "auto",
         "difficulty": "easy"
       },
       "1030-matrix-cells-in-distance-order": {
@@ -1456,6 +1457,11 @@
       "2413-smallest-even-multiple": {
         "README.md": "auto",
         "2413-smallest-even-multiple.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2481-minimum-cuts-to-divide-a-circle": {
+        "2481-minimum-cuts-to-divide-a-circle.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "2520-count-the-digits-that-divide-a-number": {
