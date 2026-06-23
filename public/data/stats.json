@@ -391,6 +391,7 @@
       "0263-ugly-number": {
         "README.md": "auto",
         "0263-ugly-number.java": "auto",
+        "0263-ugly-number.cpp": "auto",
         "difficulty": "easy"
       },
       "0268-missing-number": {
