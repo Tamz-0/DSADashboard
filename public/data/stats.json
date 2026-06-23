@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 274,
+    "easy": 275,
     "medium": 30,
     "hard": 4,
-    "solved": 308,
+    "solved": 309,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1486,6 +1486,11 @@
       "2620-counter": {
         "2620-counter.js": "auto",
         "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "2651-calculate-delayed-arrival-time": {
+        "README.md": "auto",
+        "2651-calculate-delayed-arrival-time.cpp": "auto",
         "difficulty": "easy"
       },
       "2652-sum-multiples": {
