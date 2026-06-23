@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 273,
-    "medium": 29,
+    "easy": 274,
+    "medium": 30,
     "hard": 4,
-    "solved": 306,
+    "solved": 308,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -423,6 +423,11 @@
         "README.md": "auto",
         "0303-range-sum-query-immutable.cpp": "auto",
         "difficulty": "easy"
+      },
+      "0319-bulb-switcher": {
+        "0319-bulb-switcher.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "medium"
       },
       "0326-power-of-three": {
         "README.md": "auto",
@@ -1471,6 +1476,11 @@
       "2553-separate-the-digits-in-an-array": {
         "README.md": "auto",
         "2553-separate-the-digits-in-an-array.py": "auto",
+        "difficulty": "easy"
+      },
+      "2582-pass-the-pillow": {
+        "README.md": "auto",
+        "2582-pass-the-pillow.cpp": "auto",
         "difficulty": "easy"
       },
       "2620-counter": {
