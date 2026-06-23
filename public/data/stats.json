@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 278,
+    "easy": 279,
     "medium": 32,
     "hard": 4,
-    "solved": 314,
+    "solved": 315,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1467,6 +1467,11 @@
       "2413-smallest-even-multiple": {
         "README.md": "auto",
         "2413-smallest-even-multiple.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2427-number-of-common-factors": {
+        "README.md": "auto",
+        "2427-number-of-common-factors.cpp": "auto",
         "difficulty": "easy"
       },
       "2481-minimum-cuts-to-divide-a-circle": {
