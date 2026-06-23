@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 276,
+    "easy": 277,
     "medium": 30,
     "hard": 4,
-    "solved": 310,
+    "solved": 311,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1441,6 +1441,11 @@
       "2114-maximum-number-of-words-found-in-sentences": {
         "README.md": "auto",
         "2114-maximum-number-of-words-found-in-sentences.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "2119-a-number-after-a-double-reversal": {
+        "README.md": "auto",
+        "2119-a-number-after-a-double-reversal.cpp": "auto",
         "difficulty": "easy"
       },
       "2351-first-letter-to-appear-twice": {
