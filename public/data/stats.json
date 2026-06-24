@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 281,
+    "easy": 282,
     "medium": 32,
     "hard": 4,
-    "solved": 317,
+    "solved": 318,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1568,6 +1568,11 @@
       },
       "2974-minimum-number-game": {
         "2974-minimum-number-game.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "2980-check-if-bitwise-or-has-trailing-zeros": {
+        "2980-check-if-bitwise-or-has-trailing-zeros.cpp": "auto",
         "README.md": "auto",
         "difficulty": "easy"
       },
