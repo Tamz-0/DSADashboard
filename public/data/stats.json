@@ -132,6 +132,7 @@
       "0070-climbing-stairs": {
         "README.md": "auto",
         "0070-climbing-stairs.java": "auto",
+        "0070-climbing-stairs.cpp": "auto",
         "difficulty": "easy"
       },
       "0075-sort-colors": {
