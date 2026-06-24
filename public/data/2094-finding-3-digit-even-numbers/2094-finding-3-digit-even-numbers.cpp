@@ -2,21 +2,25 @@ class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
         vector<int>res;
-        set<int>st;
-        int n=digits.size();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                for(int k=0;k<n;k++){
-                    if(i==j||i==k||j==k) continue;
-                    if(digits[i]==0)continue;
-                    if(digits[k]%2==1)continue;
-                    int temp=(digits[i]*100)+(digits[j]*10)+digits[k];
-                    st.insert(temp);
-                }
-            }
+        int freq[10]={0};
+        for(int i:digits){
+            freq[i]++;
         }
-        for(int i:st){
-            res.push_back(i);
+        for(int i=100;i<999;i+=2){
+            int tempfreq[10];
+            memcpy(tempfreq,freq,sizeof(freq));
+            int temp=i;
+            int f=1;
+            while(temp){
+                int d=temp%10;
+                if(tempfreq[d]==0){
+                    f=0;
+                    break;
+                            }
+                tempfreq[d]--;
+                temp/=10;
+            }
+            if(f)res.push_back(i);
         }
         return res;
     }
