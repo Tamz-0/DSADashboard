@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 280,
+    "easy": 281,
     "medium": 32,
     "hard": 4,
-    "solved": 316,
+    "solved": 317,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1388,6 +1388,11 @@
       "1323-maximum-69-number": {
         "README.md": "auto",
         "1323-maximum-69-number.py": "auto",
+        "difficulty": "easy"
+      },
+      "1342-number-of-steps-to-reduce-a-number-to-zero": {
+        "README.md": "auto",
+        "1342-number-of-steps-to-reduce-a-number-to-zero.cpp": "auto",
         "difficulty": "easy"
       },
       "1365-how-many-numbers-are-smaller-than-the-current-number": {
