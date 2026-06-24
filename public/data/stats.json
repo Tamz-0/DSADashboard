@@ -1364,6 +1364,7 @@
       "1295-find-numbers-with-even-number-of-digits": {
         "README.md": "auto",
         "1295-find-numbers-with-even-number-of-digits.py": "auto",
+        "1295-find-numbers-with-even-number-of-digits.cpp": "auto",
         "difficulty": "easy"
       },
       "1299-replace-elements-with-greatest-element-on-right-side": {
