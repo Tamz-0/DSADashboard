@@ -639,6 +639,7 @@
       "0509-fibonacci-number": {
         "README.md": "auto",
         "0509-fibonacci-number.py": "auto",
+        "0509-fibonacci-number.cpp": "auto",
         "difficulty": "easy"
       },
       "0520-detect-capital": {
