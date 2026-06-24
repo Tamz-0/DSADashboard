@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 282,
+    "easy": 283,
     "medium": 32,
     "hard": 4,
-    "solved": 318,
+    "solved": 319,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1414,6 +1414,11 @@
       "1486-xor-operation-in-an-array": {
         "README.md": "auto",
         "1486-xor-operation-in-an-array.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "1523-count-odd-numbers-in-an-interval-range": {
+        "1523-count-odd-numbers-in-an-interval-range.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "easy"
       },
       "1550-three-consecutive-odds": {
