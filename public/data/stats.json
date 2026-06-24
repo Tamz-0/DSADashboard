@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 285,
-    "medium": 32,
+    "medium": 33,
     "hard": 4,
-    "solved": 321,
+    "solved": 322,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1486,6 +1486,11 @@
         "README.md": "auto",
         "2180-count-integers-with-even-digit-sum.cpp": "auto",
         "difficulty": "easy"
+      },
+      "2310-sum-of-numbers-with-units-digit-k": {
+        "README.md": "auto",
+        "2310-sum-of-numbers-with-units-digit-k.cpp": "auto",
+        "difficulty": "medium"
       },
       "2351-first-letter-to-appear-twice": {
         "README.md": "auto",
