@@ -1205,6 +1205,7 @@
       "1046-last-stone-weight": {
         "README.md": "auto",
         "1046-last-stone-weight.py": "auto",
+        "1046-last-stone-weight.cpp": "auto",
         "difficulty": "easy"
       },
       "1047-remove-all-adjacent-duplicates-in-string": {
