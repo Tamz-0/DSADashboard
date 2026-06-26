@@ -1,19 +1,15 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char, int> magaHash;
-
-        for (char c : magazine) {
-            magaHash[c]++;
+        int f[26]={0};
+        for(char c:magazine){
+            f[c-'a']++;
         }
-
-        for (char c : ransomNote) {
-            if (magaHash[c] <= 0) {
-                return false;
-            }
-            magaHash[c]--;
+        for(char c:ransomNote){
+            if(f[c-'a']>0)f[c-'a']--;
+            else return false;
         }
-
         return true;
+        
     }
 };
