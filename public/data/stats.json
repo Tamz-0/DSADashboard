@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 285,
-    "medium": 34,
+    "medium": 35,
     "hard": 4,
-    "solved": 323,
+    "solved": 324,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -976,6 +976,11 @@
         "0844-backspace-string-compare.py": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "0852-peak-index-in-a-mountain-array": {
+        "README.md": "auto",
+        "0852-peak-index-in-a-mountain-array.cpp": "auto",
+        "difficulty": "medium"
       },
       "0859-buddy-strings": {
         "README.md": "auto",
