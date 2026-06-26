@@ -454,6 +454,7 @@
       "0344-reverse-string": {
         "0344-reverse-string.py": "auto",
         "README.md": "auto",
+        "0344-reverse-string.cpp": "auto",
         "difficulty": "easy"
       },
       "0345-reverse-vowels-of-a-string": {
@@ -837,6 +838,7 @@
       },
       "0704-binary-search": {
         "README.md": "auto",
+        "0704-binary-search.cpp": "auto",
         "0704-binary-search.py": "auto",
         "difficulty": "easy"
       },
