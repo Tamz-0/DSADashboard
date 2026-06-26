@@ -1227,6 +1227,7 @@
       },
       "1047-remove-all-adjacent-duplicates-in-string": {
         "README.md": "auto",
+        "1047-remove-all-adjacent-duplicates-in-string.cpp": "auto",
         "1047-remove-all-adjacent-duplicates-in-string.py": "auto",
         "difficulty": "easy"
       },
