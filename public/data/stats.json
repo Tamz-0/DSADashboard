@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 285,
-    "medium": 35,
+    "medium": 36,
     "hard": 4,
-    "solved": 324,
+    "solved": 325,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -241,6 +241,11 @@
       "0152-maximum-product-subarray": {
         "README.md": "auto",
         "0152-maximum-product-subarray.java": "auto",
+        "difficulty": "medium"
+      },
+      "0153-find-minimum-in-rotated-sorted-array": {
+        "README.md": "auto",
+        "0153-find-minimum-in-rotated-sorted-array.cpp": "auto",
         "difficulty": "medium"
       },
       "0160-intersection-of-two-linked-lists": {
