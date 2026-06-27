@@ -2,8 +2,8 @@
   "leetcode": {
     "easy": 285,
     "medium": 36,
-    "hard": 4,
-    "solved": 325,
+    "hard": 5,
+    "solved": 326,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -82,6 +82,11 @@
         "0035-search-insert-position.cpp": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "0041-first-missing-positive": {
+        "README.md": "auto",
+        "0041-first-missing-positive.cpp": "auto",
+        "difficulty": "hard"
       },
       "0042-trapping-rain-water": {
         "README.md": "auto",
