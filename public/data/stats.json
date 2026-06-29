@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 285,
+    "easy": 286,
     "medium": 36,
     "hard": 5,
-    "solved": 326,
+    "solved": 327,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1651,6 +1651,11 @@
       "3232-find-if-digit-game-can-be-won": {
         "README.md": "auto",
         "3232-find-if-digit-game-can-be-won.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "3304-find-the-k-th-character-in-string-game-i": {
+        "README.md": "auto",
+        "3304-find-the-k-th-character-in-string-game-i.cpp": "auto",
         "difficulty": "easy"
       },
       "3637-trionic-array-i": {
