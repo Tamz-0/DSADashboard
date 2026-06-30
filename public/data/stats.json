@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 286,
-    "medium": 36,
+    "medium": 37,
     "hard": 5,
-    "solved": 327,
+    "solved": 328,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -289,6 +289,11 @@
       "0172-factorial-trailing-zeroes": {
         "0172-factorial-trailing-zeroes.cpp": "auto",
         "README.md": "auto",
+        "difficulty": "medium"
+      },
+      "0189-rotate-array": {
+        "README.md": "auto",
+        "0189-rotate-array.cpp": "auto",
         "difficulty": "medium"
       },
       "0190-reverse-bits": {
