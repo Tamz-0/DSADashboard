@@ -919,6 +919,7 @@
       },
       "0762-prime-number-of-set-bits-in-binary-representation": {
         "README.md": "auto",
+        "0762-prime-number-of-set-bits-in-binary-representation.cpp": "auto",
         "0762-prime-number-of-set-bits-in-binary-representation.py": "auto",
         "difficulty": "easy"
       },
