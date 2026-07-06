@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 286,
-    "medium": 39,
+    "medium": 40,
     "hard": 5,
-    "solved": 330,
+    "solved": 331,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1168,6 +1168,11 @@
         "0977-squares-of-a-sorted-array.py": "auto",
         "0977-squares-of-a-sorted-array.cpp": "auto",
         "difficulty": "easy"
+      },
+      "0986-interval-list-intersections": {
+        "README.md": "auto",
+        "0986-interval-list-intersections.cpp": "auto",
+        "difficulty": "medium"
       },
       "0989-add-to-array-form-of-integer": {
         "README.md": "auto",
