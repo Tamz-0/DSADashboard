@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 286,
-    "medium": 37,
+    "medium": 38,
     "hard": 5,
-    "solved": 328,
+    "solved": 329,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -112,6 +112,11 @@
       "0054-spiral-matrix": {
         "README.md": "auto",
         "0054-spiral-matrix.py": "auto",
+        "difficulty": "medium"
+      },
+      "0056-merge-intervals": {
+        "README.md": "auto",
+        "0056-merge-intervals.cpp": "auto",
         "difficulty": "medium"
       },
       "0058-length-of-last-word": {
