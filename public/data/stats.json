@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 286,
-    "medium": 38,
+    "medium": 39,
     "hard": 5,
-    "solved": 329,
+    "solved": 330,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -117,6 +117,11 @@
       "0056-merge-intervals": {
         "README.md": "auto",
         "0056-merge-intervals.cpp": "auto",
+        "difficulty": "medium"
+      },
+      "0057-insert-interval": {
+        "README.md": "auto",
+        "0057-insert-interval.cpp": "auto",
         "difficulty": "medium"
       },
       "0058-length-of-last-word": {
