@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 286,
-    "medium": 40,
+    "medium": 41,
     "hard": 5,
-    "solved": 331,
+    "solved": 332,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -315,6 +315,11 @@
         "README.md": "auto",
         "0191-number-of-1-bits.cpp": "auto",
         "difficulty": "easy"
+      },
+      "0200-number-of-islands": {
+        "README.md": "auto",
+        "0200-number-of-islands.cpp": "auto",
+        "difficulty": "medium"
       },
       "0202-happy-number": {
         "README.md": "auto",
