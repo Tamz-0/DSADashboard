@@ -18,6 +18,7 @@
       },
       "0007-reverse-integer": {
         "README.md": "auto",
+        "0007-reverse-integer.cpp": "auto",
         "0007-reverse-integer.py": "auto",
         "difficulty": "medium"
       },
