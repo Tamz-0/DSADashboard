@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 288,
+    "easy": 289,
     "medium": 43,
     "hard": 5,
-    "solved": 336,
+    "solved": 337,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1647,6 +1647,11 @@
       "2806-account-balance-after-rounded-purchase": {
         "2806-account-balance-after-rounded-purchase.cpp": "auto",
         "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "2859-sum-of-values-at-indices-with-k-set-bits": {
+        "README.md": "auto",
+        "2859-sum-of-values-at-indices-with-k-set-bits.cpp": "auto",
         "difficulty": "easy"
       },
       "2894-divisible-and-non-divisible-sums-difference": {
