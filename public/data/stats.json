@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 289,
+    "easy": 290,
     "medium": 43,
     "hard": 5,
-    "solved": 337,
+    "solved": 338,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1708,6 +1708,11 @@
       "3304-find-the-k-th-character-in-string-game-i": {
         "README.md": "auto",
         "3304-find-the-k-th-character-in-string-game-i.cpp": "auto",
+        "difficulty": "easy"
+      },
+      "3392-count-subarrays-of-length-three-with-a-condition": {
+        "README.md": "auto",
+        "3392-count-subarrays-of-length-three-with-a-condition.cpp": "auto",
         "difficulty": "easy"
       },
       "3637-trionic-array-i": {
