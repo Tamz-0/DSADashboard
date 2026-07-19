@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 290,
-    "medium": 43,
+    "medium": 44,
     "hard": 5,
-    "solved": 338,
+    "solved": 339,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1548,6 +1548,11 @@
         "README.md": "auto",
         "2119-a-number-after-a-double-reversal.cpp": "auto",
         "difficulty": "easy"
+      },
+      "2165-smallest-value-of-the-rearranged-number": {
+        "README.md": "auto",
+        "2165-smallest-value-of-the-rearranged-number.cpp": "auto",
+        "difficulty": "medium"
       },
       "2180-count-integers-with-even-digit-sum": {
         "2180-count-integers-with-even-digit-sum.cpp": "auto",
