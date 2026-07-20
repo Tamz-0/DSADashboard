@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 291,
-    "medium": 44,
+    "medium": 46,
     "hard": 5,
-    "solved": 340,
+    "solved": 342,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -231,6 +231,11 @@
         "0125-valid-palindrome.cpp": "auto",
         "difficulty": "easy"
       },
+      "0128-longest-consecutive-sequence": {
+        "0128-longest-consecutive-sequence.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "medium"
+      },
       "0136-single-number": {
         "README.md": "auto",
         "0136-single-number.cpp": "auto",
@@ -382,6 +387,11 @@
         "README.md": "auto",
         "0228-summary-ranges.cpp": "auto",
         "difficulty": "easy"
+      },
+      "0229-majority-element-ii": {
+        "README.md": "auto",
+        "0229-majority-element-ii.cpp": "auto",
+        "difficulty": "medium"
       },
       "0231-power-of-two": {
         "README.md": "auto",
