@@ -262,6 +262,7 @@
       "0152-maximum-product-subarray": {
         "0152-maximum-product-subarray.java": "auto",
         "README.md": "auto",
+        "0152-maximum-product-subarray.cpp": "auto",
         "difficulty": "medium"
       },
       "0153-find-minimum-in-rotated-sorted-array": {
