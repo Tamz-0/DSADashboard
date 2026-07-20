@@ -1,19 +1,14 @@
-
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int, int> hash;
-        int res = 0;
-        int majority = 0;
-
-        for (int n : nums) {
-            hash[n] = 1 + hash[n];
-            if (hash[n] > majority) {
-                res = n;
-                majority = hash[n];
-            }
+        int candidate=0;
+        int c=0;
+        for(int i:nums){
+            if(c==0)candidate=i;
+            if(candidate==i)c++;
+            else c--;
         }
-
-        return res;        
+        return candidate;
+        
     }
 };
