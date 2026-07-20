@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 290,
+    "easy": 291,
     "medium": 44,
     "hard": 5,
-    "solved": 339,
+    "solved": 340,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -1503,6 +1503,11 @@
         "1749-maximum-absolute-sum-of-any-subarray.cpp": "auto",
         "README.md": "auto",
         "difficulty": "medium"
+      },
+      "1752-check-if-array-is-sorted-and-rotated": {
+        "README.md": "auto",
+        "1752-check-if-array-is-sorted-and-rotated.cpp": "auto",
+        "difficulty": "easy"
       },
       "1822-sign-of-the-product-of-an-array": {
         "README.md": "auto",
