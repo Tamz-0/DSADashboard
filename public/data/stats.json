@@ -96,6 +96,7 @@
       },
       "0049-group-anagrams": {
         "README.md": "auto",
+        "0049-group-anagrams.cpp": "auto",
         "0049-group-anagrams.py": "auto",
         "difficulty": "medium"
       },
