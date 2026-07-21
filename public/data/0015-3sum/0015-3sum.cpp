@@ -1,40 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& arr) {
-        vector<vector<int>> vec;
-        int n=arr.size();
-        sort(arr.begin(), arr.end());
-
-        for(int i =0;i<n-2;i++){
-            if(i>0&&arr[i]==arr[i-1]){
-                continue;
-            }
-            int t=-1*arr[i];
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        vector<vector<int>>res;
+        int n=nums.size();
+        for(int i=0;i<n-2;i++){
+            if(i>0&&nums[i]==nums[i-1])continue;
             int j=i+1;
-            int k=arr.size()-1;
+            int k=n-1;
             while(j<k){
-                int s=arr[j]+arr[k];
-                if(s==t){
-                    vec.push_back({arr[i],arr[j],arr[k]});
+                int s=nums[i]+nums[j]+nums[k];
+                if(s==0){
+                    res.push_back({nums[i],nums[j],nums[k]});
                     j++;
                     k--;
-                    while(j<n&&arr[j]==arr[j-1]){
-                        j++;
-                    }
-                    
-                    while(k>=0&&arr[k]==arr[k+1]){
-                        k--;
-                    }
-                    
+                    while(j<n&&nums[j]==nums[j-1])j++;
+                    while(k>=0&&nums[k]==nums[k+1])k--;
                 }
-                else if(s<t){
-                    j++;
-                }
-                else{
-                    k--;
-                }
+                else if(s>0)k--;
+                else j++;
             }
         }
-        return vec;
+        return res;
     }
 };

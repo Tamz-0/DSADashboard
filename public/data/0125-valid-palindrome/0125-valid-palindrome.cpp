@@ -1,17 +1,16 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int l=0;
-        int r=s.length()-1;
-        while(l<r){
-            while(l<r&&!isalnum(s[l]))l++;
-            while(l<r&&!isalnum(s[r]))r--;
-            if(tolower(s[l])!=tolower(s[r]))return false;
-            l++;
-            r--;
+        int i=0;
+        int j=s.size()-1;
+        while(i<j){
+            while(i<j&&!isalnum(s[i]))i++;
+            while(i<j&&!isalnum(s[j]))j--;
+            if((s[i]|' ')!=(s[j]|' '))return 0;
+            i++;
+            j--;
         }
-        return true;
-
+        return 1;
         
     }
 };
