@@ -418,6 +418,7 @@
       },
       "0238-product-of-array-except-self": {
         "0238-product-of-array-except-self.py": "auto",
+        "0238-product-of-array-except-self.cpp": "auto",
         "README.md": "auto",
         "difficulty": "medium"
       },
