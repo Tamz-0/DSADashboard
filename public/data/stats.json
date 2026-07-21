@@ -51,6 +51,7 @@
       "0020-valid-parentheses": {
         "README.md": "auto",
         "0020-valid-parentheses.py": "auto",
+        "0020-valid-parentheses.cpp": "auto",
         "difficulty": "easy"
       },
       "0021-merge-two-sorted-lists": {
