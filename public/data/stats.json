@@ -782,6 +782,7 @@
         "difficulty": "easy"
       },
       "0572-subtree-of-another-tree": {
+        "0572-subtree-of-another-tree.cpp": "auto",
         "README.md": "auto",
         "0572-subtree-of-another-tree.py": "auto",
         "difficulty": "easy"
