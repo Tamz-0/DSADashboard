@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 291,
-    "medium": 49,
+    "medium": 50,
     "hard": 5,
-    "solved": 345,
+    "solved": 346,
     "shas": {
       "0001-two-sum": {
         "README.md": "auto",
@@ -191,6 +191,11 @@
       "0102-binary-tree-level-order-traversal": {
         "README.md": "auto",
         "0102-binary-tree-level-order-traversal.cpp": "auto",
+        "difficulty": "medium"
+      },
+      "0103-binary-tree-zigzag-level-order-traversal": {
+        "README.md": "auto",
+        "0103-binary-tree-zigzag-level-order-traversal.cpp": "auto",
         "difficulty": "medium"
       },
       "0104-maximum-depth-of-binary-tree": {
