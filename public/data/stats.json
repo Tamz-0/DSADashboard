@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 291,
-    "medium": 55,
+    "medium": 56,
     "hard": 5,
-    "solved": 351,
+    "solved": 352,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.cpp": "auto",
@@ -525,6 +525,11 @@
         "README.md": "auto",
         "0326-power-of-three.cpp": "auto",
         "difficulty": "easy"
+      },
+      "0337-house-robber-iii": {
+        "0337-house-robber-iii.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "medium"
       },
       "0338-counting-bits": {
         "0338-counting-bits.cpp": "auto",
