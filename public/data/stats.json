@@ -854,6 +854,7 @@
       },
       "0628-maximum-product-of-three-numbers": {
         "0628-maximum-product-of-three-numbers.py": "auto",
+        "0628-maximum-product-of-three-numbers.cpp": "auto",
         "README.md": "auto",
         "difficulty": "easy"
       },
