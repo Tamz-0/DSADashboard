@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 291,
+    "easy": 293,
     "medium": 56,
     "hard": 5,
-    "solved": 352,
+    "solved": 354,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.cpp": "auto",
@@ -1592,6 +1592,11 @@
         "1952-three-divisors.cpp": "auto",
         "difficulty": "easy"
       },
+      "1979-find-greatest-common-divisor-of-array": {
+        "1979-find-greatest-common-divisor-of-array.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
       "2011-final-value-of-variable-after-performing-operations": {
         "2011-final-value-of-variable-after-performing-operations.cpp": "auto",
         "README.md": "auto",
@@ -1790,6 +1795,11 @@
       },
       "3392-count-subarrays-of-length-three-with-a-condition": {
         "3392-count-subarrays-of-length-three-with-a-condition.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "3536-maximum-product-of-two-digits": {
+        "3536-maximum-product-of-two-digits.cpp": "auto",
         "README.md": "auto",
         "difficulty": "easy"
       },
