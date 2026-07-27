@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 295,
+    "easy": 296,
     "medium": 56,
     "hard": 5,
-    "solved": 356,
+    "solved": 357,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.cpp": "auto",
@@ -1545,6 +1545,11 @@
         "1390-four-divisors.cpp": "auto",
         "README.md": "auto",
         "difficulty": "medium"
+      },
+      "1464-maximum-product-of-two-elements-in-an-array": {
+        "1464-maximum-product-of-two-elements-in-an-array.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "easy"
       },
       "1486-xor-operation-in-an-array": {
         "1486-xor-operation-in-an-array.cpp": "auto",
