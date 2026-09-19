@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 297,
-    "medium": 60,
+    "medium": 61,
     "hard": 6,
-    "solved": 363,
+    "solved": 364,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.cpp": "auto",
@@ -784,6 +784,11 @@
         "0543-diameter-of-binary-tree.py": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "0547-number-of-provinces": {
+        "0547-number-of-provinces.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "medium"
       },
       "0551-student-attendance-record-i": {
         "0551-student-attendance-record-i.py": "auto",
