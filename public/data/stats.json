@@ -1,9 +1,9 @@
 {
   "leetcode": {
-    "easy": 297,
+    "easy": 298,
     "medium": 61,
     "hard": 7,
-    "solved": 365,
+    "solved": 366,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.java": "auto",
@@ -1625,6 +1625,11 @@
       "1952-three-divisors": {
         "1952-three-divisors.cpp": "auto",
         "README.md": "auto",
+        "difficulty": "easy"
+      },
+      "1971-find-if-path-exists-in-graph": {
+        "README.md": "auto",
+        "1971-find-if-path-exists-in-graph.cpp": "auto",
         "difficulty": "easy"
       },
       "1979-find-greatest-common-divisor-of-array": {
