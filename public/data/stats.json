@@ -1002,6 +1002,7 @@
         "difficulty": "easy"
       },
       "0733-flood-fill": {
+        "0733-flood-fill.cpp": "auto",
         "0733-flood-fill.py": "auto",
         "README.md": "auto",
         "difficulty": "easy"
