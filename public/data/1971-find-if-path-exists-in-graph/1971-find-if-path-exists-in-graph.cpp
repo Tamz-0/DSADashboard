@@ -1,34 +1,31 @@
 class Solution {
 public:
-    bool bfs(vector<vector<int>>&adj,vector<int>&vis,int s, int d){
-        if(s==d)return 1;
-        vis[s]=1;
-        queue<int>q;
-        q.push(s);
-        while(!q.empty()){
-            int u=q.front();
-            q.pop();
-            if(u==d)return 1;
-            for(int v:adj[u]){
-                if(!vis[v]){
-                    vis[v]=1;
-                    q.push(v);
-                }
-            }
-            
+    int find(int x,vector<int>&parent){
+        if(x==parent[x])return x;
+        return parent[x]=find(parent[x],parent);
+    }
+    void unite(int a,int b,vector<int>&parent,vector<int>&rank ){
+        int a_par=find(a,parent);
+        int b_par=find(b,parent);
+        if(a_par==b_par)return;
+        if(rank[a_par]>rank[b_par])parent[b_par]=a_par;
+        else if(rank[a_par]<rank[b_par])parent[a_par]=b_par;
+        else{
+            parent[a_par]=b_par;
+            rank[b_par]++;
         }
-        return 0;
     }
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        if(source==destination)return  1;
-        vector<vector<int>>adj(n);
+        vector<int>par(n);
+        for(int i=0;i<n;i++){
+            par[i]=i;
+        }
+        vector<int>rank(n,0);
         for(auto it:edges){
             int u=it[0];
             int v=it[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            unite(u,v,par,rank);
         }
-        vector<int>vis(n,0);
-        return bfs(adj,vis,source,destination);
+        return find(source,par)==find(destination,par);
     }
 };
