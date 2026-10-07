@@ -1,20 +1,37 @@
 class Solution {
 public:
-    void dfs(int node,vector<int>&vis,vector<vector<int>>&isConnected,int n){
-        vis[node]=1;
-        for(int j=0;j<n;j++){
-            if(!vis[j]&&isConnected[node][j]==1)dfs(j,vis,isConnected,n);
+    int find(int x,vector<int>&par){
+        if(x==par[x])return x;
+        return par[x]=find(par[x],par);
+    }
+    void unite(int a,int b,vector<int>&par,vector<int>&rank){
+        int a_par=find(a,par);
+        int b_par=find(b,par);
+        if(a_par==b_par)return;
+        if(rank[a_par]>rank[b_par])par[b_par]=a_par;
+        else if(rank[a_par]<rank[b_par])par[a_par]=b_par;
+        else{
+            par[b_par]=a_par;
+            rank[a_par]++;
         }
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n=isConnected.size();
-        int c=0;
-        vector<int>vis(n,0);
+        vector<int>par(n);
+        vector<int>rank(n,0);
         for(int i=0;i<n;i++){
-            if(!vis[i]){
-                c++;
-                dfs(i,vis,isConnected,n);
+            par[i]=i;
+        }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(isConnected[i][j]==1){
+                    unite(i,j,par,rank);
+                }
             }
+        }
+        int c=0;
+        for(int i=0;i<n;i++){
+            if(find(i,par)==i)c++;
         }
         return c;
     }
