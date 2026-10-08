@@ -1305,6 +1305,7 @@
         "difficulty": "medium"
       },
       "0997-find-the-town-judge": {
+        "0997-find-the-town-judge.cpp": "auto",
         "0997-find-the-town-judge.py": "auto",
         "README.md": "auto",
         "difficulty": "easy"
