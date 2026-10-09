@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 298,
-    "medium": 63,
+    "medium": 64,
     "hard": 7,
-    "solved": 368,
+    "solved": 369,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.java": "auto",
@@ -908,6 +908,11 @@
         "0661-image-smoother.py": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "0670-maximum-swap": {
+        "0670-maximum-swap.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "medium"
       },
       "0671-second-minimum-node-in-a-binary-tree": {
         "0671-second-minimum-node-in-a-binary-tree.py": "auto",
