@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 298,
-    "medium": 65,
+    "medium": 66,
     "hard": 7,
-    "solved": 370,
+    "solved": 371,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.java": "auto",
@@ -1329,6 +1329,11 @@
         "1002-find-common-characters.py": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "1004-max-consecutive-ones-iii": {
+        "1004-max-consecutive-ones-iii.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "medium"
       },
       "1005-maximize-sum-of-array-after-k-negations": {
         "1005-maximize-sum-of-array-after-k-negations.py": "auto",
