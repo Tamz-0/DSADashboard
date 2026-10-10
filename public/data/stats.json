@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 298,
-    "medium": 64,
+    "medium": 65,
     "hard": 7,
-    "solved": 369,
+    "solved": 370,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.java": "auto",
@@ -115,6 +115,11 @@
       "0054-spiral-matrix": {
         "0054-spiral-matrix.py": "auto",
         "README.md": "auto",
+        "difficulty": "medium"
+      },
+      "0055-jump-game": {
+        "README.md": "auto",
+        "0055-jump-game.cpp": "auto",
         "difficulty": "medium"
       },
       "0056-merge-intervals": {
