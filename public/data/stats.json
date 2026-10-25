@@ -845,6 +845,7 @@
       },
       "0589-n-ary-tree-preorder-traversal": {
         "0589-n-ary-tree-preorder-traversal.py": "auto",
+        "0589-n-ary-tree-preorder-traversal.cpp": "auto",
         "README.md": "auto",
         "difficulty": "easy"
       },
