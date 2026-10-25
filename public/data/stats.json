@@ -787,6 +787,7 @@
       },
       "0543-diameter-of-binary-tree": {
         "README.md": "auto",
+        "0543-diameter-of-binary-tree.cpp": "auto",
         "0543-diameter-of-binary-tree.py": "auto",
         "difficulty": "easy"
       },
