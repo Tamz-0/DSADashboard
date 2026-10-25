@@ -850,6 +850,7 @@
         "difficulty": "easy"
       },
       "0590-n-ary-tree-postorder-traversal": {
+        "0590-n-ary-tree-postorder-traversal.cpp": "auto",
         "README.md": "auto",
         "0590-n-ary-tree-postorder-traversal.py": "auto",
         "difficulty": "easy"
