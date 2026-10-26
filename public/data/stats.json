@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 298,
-    "medium": 67,
+    "medium": 68,
     "hard": 7,
-    "solved": 372,
+    "solved": 373,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.java": "auto",
@@ -358,6 +358,11 @@
       "0198-house-robber": {
         "README.md": "auto",
         "0198-house-robber.cpp": "auto",
+        "difficulty": "medium"
+      },
+      "0199-binary-tree-right-side-view": {
+        "0199-binary-tree-right-side-view.cpp": "auto",
+        "README.md": "auto",
         "difficulty": "medium"
       },
       "0200-number-of-islands": {
