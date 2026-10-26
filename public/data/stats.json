@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 298,
-    "medium": 68,
+    "medium": 69,
     "hard": 7,
-    "solved": 373,
+    "solved": 374,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.java": "auto",
@@ -207,6 +207,11 @@
         "0104-maximum-depth-of-binary-tree.cpp": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "0105-construct-binary-tree-from-preorder-and-inorder-traversal": {
+        "0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "medium"
       },
       "0107-binary-tree-level-order-traversal-ii": {
         "README.md": "auto",
