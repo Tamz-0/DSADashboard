@@ -1,9 +1,9 @@
 {
   "leetcode": {
     "easy": 298,
-    "medium": 69,
+    "medium": 70,
     "hard": 7,
-    "solved": 374,
+    "solved": 375,
     "shas": {
       "0001-two-sum": {
         "0001-two-sum.java": "auto",
@@ -1076,6 +1076,11 @@
         "0783-minimum-distance-between-bst-nodes.py": "auto",
         "README.md": "auto",
         "difficulty": "easy"
+      },
+      "0785-is-graph-bipartite": {
+        "0785-is-graph-bipartite.cpp": "auto",
+        "README.md": "auto",
+        "difficulty": "medium"
       },
       "0796-rotate-string": {
         "README.md": "auto",
